@@ -1,0 +1,885 @@
+252031010108820630011603202212 
+3570000000000000000017158174PICHARDO            VALDIVIA            JOSE LUIS                                                   9211000000049028670CSA     GEN20221201        
+3500000000000000000105820763MURILLO             BARRANTES           MINOR                                                       8315000000081563560CSA     GEN20221201        
+3500000000000000000106780399ROJAS               BLANCO              EDGAR                                                       9211000000039456845CSA     GEN20221201        
+3500000000000000000106860241GUTIERREZ           SEQUEIRA            ARTURO                                                      8321000000067750455CSA     GEN20221201        
+3500000000000000000107600043FERNANDEZ           NAVARRO             RONALD                                                      9211000000000000000 OC        20221219        
+3500000000000000000107890397GARBANZO            NARANJO             GERARDO                                                     9211000000055282105CSA     GEN20221201        
+3500000000000000000108200214MORALES             VILLANUEVA          GILBERTO ENRIQUE                                            9211000000032977995CSA     GEN20221201        
+3500000000000000000108200214MORALES             VILLANUEVA          GILBERTO ENRIQUE                                            9211000000000000000CPE     S  2022120320221203
+3500000000000000000108200214MORALES             VILLANUEVA          GILBERTO ENRIQUE                                            9211000000000000000CPE     S  2022122420221224
+3500000000000000000108480997GAMBOA              SEGURA              SERGIO                                                      9211000000056986670CSA     GEN20221201        
+3500000000000000000108530931VARGAS              PORTUGUEZ           ROY                                                         9211000000042044235CSA     GEN20221201        
+3500000000000000000108530931VARGAS              PORTUGUEZ           ROY                                                         9211000000000000000CPE     S  2022122020221220
+3500000000000000000108560558CAMPOS              MORALES             YORDIN                                                      9211000000037930665CSA     GEN20221201        
+3500000000000000000108700875BRENES              AGUILAR             OSCAR ANTONIO                                               4132000000048569440CSA     GEN20221201        
+3500000000000000000108740370PALACIOS            TORRES              VICENTE                                                     9211000000035420095CSA     GEN20221201        
+3500000000000000000108750493SOLANO              CISNEROS            CARLOS                                                      9211000000065529000CSA     GEN20221201        
+3500000000000000000109070365MORALES             ROBLES              LUIS ALBERTO                                                9211000000029245180CIC08DIUGEN20221201        
+3500000000000000000109300857BERMUDEZ            ARIAS               FLORA                                                       9211000000018166415CSA     GEN20221201        
+3500000000000000000109300857BERMUDEZ            ARIAS               FLORA                                                       9211000000000000000 EX        20221217        
+3500000000000000000109490031ABARCA              ARIAS               ODIR                                                        8321000000042852160CSA     GEN20221201        
+3500000000000000000109590985AGUILAR             AGUILAR             LEONEL                                                      8321000000042306660CSA     GEN20221201        
+3500000000000000000109600513ARAUZ               SALAZAR             EDUARDO                                                     4132000000038305200CSA     GEN20221201        
+3500000000000000000109690383UVA                 UVA                 MIGUEL                                                      9211000000040117500CSA     GEN20221201        
+3500000000000000000109690525CHINCHILLA          PICADO              LIDIER                                                      8321000000054597410CSA     GEN20221201        
+3500000000000000000109690806ABARCA              ABARCA              YANEL                                                       8321000000059503560CSA     GEN20221201        
+3500000000000000000109760093GRANADOS            UVA                 PABLO                                                       8321000000061080695CSA     GEN20221201        
+3500000000000000000110220173ROMERO              LOBO                WILBERTH DE LA TRINIDAD                                     9211000000032410545CSA     GEN20221201        
+3500000000000000000110410663ARAUZ               SALAZAR             ELMER                                                       8321000000079568885CSA     GEN20221201        
+3500000000000000000110540466ROJAS               TORRES              CARLOS ALBERTO                                              9211000000059407400CSA     GEN20221201        
+3500000000000000000110750735ALTAMIRANO          VIDAL               JUAN CARLOS                                                 9211000000033931115CSA     GEN20221201        
+3500000000000000000110910105ALFARO              TORRES              ALLAN                                                       8321000000052709080CSA     GEN20221201        
+3500000000000000000110910880BARBOZA             GARBANZO            DAGOBERTO                                                   9211000000049534390CSA     GEN20221201        
+3500000000000000000111030432CHAVES              MONESTEL            WAGNER RAFAEL                                               8321000000074255685CSA     GEN20221201        
+3500000000000000000111190165ARAUZ               CERDAS              NURY                                                        9211000000013516400CSA     GEN20221201        
+3500000000000000000111190165ARAUZ               CERDAS              NURY                                                        9211000000000000000CPE     S  2022121020221210
+3500000000000000000111190165ARAUZ               CERDAS              NURY                                                        9211000000000000000 EX        20221217        
+3500000000000000000111200064AVILES              DIAZ                DIXON                                                       4132000000043743885CSA     GEN20221201        
+3500000000000000000111220329NAVARRO             CHAVARRIA           YORLENY                                                     9211000000017584915CSA     GEN20221201        
+3500000000000000000111220329NAVARRO             CHAVARRIA           YORLENY                                                     9211000000000000000 EX        20221217        
+3500000000000000000111320011NAVARRO             MONTOYA             ROBERTH                                                     8321000000088144910CSA     GEN20221201        
+3500000000000000000111370437TORRES              VILLANUEVA          EDWARD                                                      9211000000037308505CSA     GEN20221201        
+3500000000000000000111370437TORRES              VILLANUEVA          EDWARD                                                      9211000000000000000CIN     SEM2022121320221213
+3500000000000000000111470280GARRO               MORALES             JASON ASDRUBAL                                              9211000000055055065CSA     GEN20221201        
+3500000000000000000111480846PEREZ               VALENCIA            GILBERTO                                                    9211000000000000000 OC        20221219        
+3500000000000000000111510122MORA                BERMUDEZ            WILSON                                                      9211000000040453460CSA     GEN20221201        
+3500000000000000000111570125FLORES              ROJAS               ROGER                                                       9211000000039680310CSA     GEN20221201        
+3500000000000000000111570125FLORES              ROJAS               ROGER                                                       9211000000000000000CPE     S  2022122320221223
+3500000000000000000111570126ARAUZ               UMAÑA               EUGENIO                                                     9211000000024290705CSA     GEN20221201        
+3500000000000000000111570126ARAUZ               UMAÑA               EUGENIO                                                     9211000000000000000CIN     SEM2022122820221230
+3500000000000000000111610963ESPINOZA            MENA                JIMMY                                                       9211000000032135290CSA     GEN20221201        
+3500000000000000000111660258BEITA               ZUÑIGA              ISMAEL                                                      9211000000048753425CSA     GEN20221201        
+3500000000000000000111810822FUENTES             CORDERO             ISIDRO                                                      9211000000034143875CSA     GEN20221201        
+3500000000000000000111810822FUENTES             CORDERO             ISIDRO                                                      9211000000000000000CPE     S  2022121220221212
+3500000000000000000111810822FUENTES             CORDERO             ISIDRO                                                      9211000000000000000CPE     S  2022122220221225
+3500000000000000000111810822FUENTES             CORDERO             ISIDRO                                                      9211000000000000000 EX        20221222        
+3500000000000000000111840364SERRACIN            LORIA               LUIS DIEGO                                                  8321000000064130175CSA     GEN20221201        
+3500000000000000000111860064SANCHEZ             SALAZAR             DARIAN                                                      8315000000062557975CSA     GEN20221201        
+3500000000000000000111860244MORA                LOBO                FREDDY GERARDO                                              8321000000040202205CSA     GEN20221201        
+3500000000000000000111860244MORA                LOBO                FREDDY GERARDO                                              8321000000000000000CIN     SEM2022120120221201
+3500000000000000000111860244MORA                LOBO                FREDDY GERARDO                                              8321000000000000000CIN     SEM2022120420221204
+3500000000000000000111880990OBREGON             TORRES              FRANCIS GERARDO                                             8321000000096763085CSA     GEN20221201        
+3500000000000000000111920059ROJAS               TORRES              JORGE ELADIO                                                9211000000043128500CSA     GEN20221201        
+3500000000000000000111990404ALTAMIRANO          BERMUDEZ            JOAQUIN                                                     9211000000037808560CSA     GEN20221201        
+3500000000000000000111990404ALTAMIRANO          BERMUDEZ            JOAQUIN                                                     9211000000000000000CPE     S  2022121220221212
+3500000000000000000111990404ALTAMIRANO          BERMUDEZ            JOAQUIN                                                     9211000000000000000CPE     S  2022121920221220
+3500000000000000000112120083ROJAS               MURILLO             ROSIBEL                                                     9211000000017149455CSA     GEN20221201        
+3500000000000000000112120083ROJAS               MURILLO             ROSIBEL                                                     9211000000000000000 EX        20221217        
+3500000000000000000112120864PALACIOS            CABALLERO           FRANCISCO                                                   9211000000059178005CSA     GEN20221201        
+3500000000000000000112120864PALACIOS            CABALLERO           FRANCISCO                                                   9211000000000000000CPE     S  2022122320221223
+3500000000000000000112200517CHAVES              MUÑOZ               FREILYN OLDEMAR                                             4132000000040699280CSA     GEN20221201        
+3500000000000000000112330675ESPINOZA            VIDAL               MICHAEL ENRIQUE                                             8321000000077800185CSA     GEN20221201        
+3500000000000000000112400803LARA                ZAPATA              LUIS ALBERTO                                                9211000000054465890CSA     GEN20221201        
+3500000000000000000112550079SANDI               JIMENEZ             MAIKER OMAR                                                 9211000000021225645CSA     GEN20221201        
+3500000000000000000112550079SANDI               JIMENEZ             MAIKER OMAR                                                 9211000000000000000CPE     S  2022121020221210
+3500000000000000000112550079SANDI               JIMENEZ             MAIKER OMAR                                                 9211000000000000000CPE     S  2022121220221212
+3500000000000000000112550079SANDI               JIMENEZ             MAIKER OMAR                                                 9211000000000000000CPE     S  2022122620221226
+3500000000000000000112550079SANDI               JIMENEZ             MAIKER OMAR                                                 9211000000000000000CIN     SEM2022122820221230
+3500000000000000000112650391NAVAS               UVA                 HERIBERTO DE LOS ANGELES                                    9211000000046715085CSA     GEN20221201        
+3500000000000000000112650391NAVAS               UVA                 HERIBERTO DE LOS ANGELES                                    9211000000000000000CPE     S  2022120120221201
+3500000000000000000112650391NAVAS               UVA                 HERIBERTO DE LOS ANGELES                                    9211000000000000000 OC        20221219        
+3500000000000000000112690139QUESADA             VARGAS              CARLOS ENRIQUE                                              9211000000034249815CSA     GEN20221201        
+3500000000000000000112690139QUESADA             VARGAS              CARLOS ENRIQUE                                              9211000000000000000CPE     S  2022121520221215
+3500000000000000000112690139QUESADA             VARGAS              CARLOS ENRIQUE                                              9211000000000000000CPE     S  2022122220221222
+3500000000000000000112700366JIMENEZ             SALAS               ADRIAN                                                      4132000000037746585CSA     GEN20221201        
+3500000000000000000112730758FIGUEROA            NAVAS               DAINER ROLANDO                                              9211000000060408035CSA     GEN20221201        
+3500000000000000000112760106ELIZONDO            ALTAMIRANO          JULIO ANDRES                                                9211000000046799835CSA     GEN20221201        
+3500000000000000000112760119ACUÑA               ALVARADO            MILTON                                                      9211000000035394985CSA     GEN20221201        
+3500000000000000000112760119ACUÑA               ALVARADO            MILTON                                                      9211000000000000000CIN     SEM2022120520221205
+3500000000000000000112770055VILLEGAS            MARIN               SEIDY MARIA                                                 9211000000032364700CSA     GEN20221201        
+3500000000000000000112770055VILLEGAS            MARIN               SEIDY MARIA                                                 9211000000000000000CPE     S  2022121020221210
+3500000000000000000112770212GODINEZ             QUESADA             BRAULIO                                                     8321000000065207360CSA     GEN20221201        
+3500000000000000000112830455MORA                LOBO                MARIA ELIZABETH                                             9211000000028144185CSA     GEN20221201        
+3500000000000000000112830455MORA                LOBO                MARIA ELIZABETH                                             9211000000000000000CPE     S  2022122620221226
+3500000000000000000112850351VILLANUEVA          CHAVES              GERMAY                                                      9211000000045993955CSA     GEN20221201        
+3500000000000000000112910888MAYORGA             MAYORGA             GEOVANNY                                                    9211000000048788165CSA     GEN20221201        
+3500000000000000000112960932DIAZ                CASTILLO            JENNER ALBERTO                                              8321000000084009985CSA     GEN20221201        
+3500000000000000000113060420RAMIREZ             JIMENEZ             CARLOS ROBERTO                                              8321000000067922190CSA     GEN20221201        
+3500000000000000000113100285GARBANZO            TORRES              MAIROL                                                      8321000000042212625CSA     GEN20221201        
+3500000000000000000113120546CHAVARRIA           CORDERO             MARY ELIZABETH                                              9211000000029486020CSA     GEN20221201        
+3500000000000000000113120546CHAVARRIA           CORDERO             MARY ELIZABETH                                              9211000000000000000CIN     SEM2022120220221202
+3500000000000000000113120546CHAVARRIA           CORDERO             MARY ELIZABETH                                              9211000000000000000CIN     SEM2022121120221211
+3500000000000000000113120546CHAVARRIA           CORDERO             MARY ELIZABETH                                              9211000000000000000CPE     S  2022122920221229
+3500000000000000000113150534ARAUZ               UMAÑA               MARLON FABIAN                                               9211000000032248470CSA     GEN20221201        
+3500000000000000000113150858MONGE               ROJAS               OSCAR                                                       9211000000022749465CSA     GEN20221201        
+3500000000000000000113150858MONGE               ROJAS               OSCAR                                                       9211000000000000000CIN     SEM2022120720221207
+3500000000000000000113320724ARTAVIA             VILLANUEVA          GREIVIN                                                     9211000000032048130CSA     GEN20221201        
+3500000000000000000113470493GODINEZ             QUESADA             RONALD                                                      8321000000036947750CSA     GEN20221201        
+3500000000000000000113470493GODINEZ             QUESADA             RONALD                                                      8321000000000000000CPE     S  2022120620221206
+3500000000000000000113550530JIMENEZ             SALAS               VIVIANA                                                     4132000000033175555CSA     GEN20221201        
+3500000000000000000113550530JIMENEZ             SALAS               VIVIANA                                                     4132000000000000000CIN     SEM2022121120221211
+3500000000000000000113620872JIMENEZ             ESTRADA             JAIRO ESTEBAN                                               9211000000031022345CSA     GEN20221201        
+3500000000000000000113620872JIMENEZ             ESTRADA             JAIRO ESTEBAN                                               9211000000000000000CPE     S  2022120620221206
+3500000000000000000113620872JIMENEZ             ESTRADA             JAIRO ESTEBAN                                               9211000000000000000CPE     S  2022121220221212
+3500000000000000000113620872JIMENEZ             ESTRADA             JAIRO ESTEBAN                                               9211000000000000000CIN     SEM2022121720221217
+3500000000000000000113710109VILLANUEVA          CHAVES              JOSEPH DE LOS ANGELES                                       8321000000057169755CSA     GEN20221201        
+3500000000000000000113840086BERMUDEZ            ELIZONDO            GREIVIN FRANCISCO                                           9211000000051877825CSA     GEN20221201        
+3500000000000000000113840086BERMUDEZ            ELIZONDO            GREIVIN FRANCISCO                                           9211000000000000000CIN     SEM2022121220221212
+3500000000000000000113840086BERMUDEZ            ELIZONDO            GREIVIN FRANCISCO                                           9211000000000000000CPE     S  2022122220221222
+3500000000000000000113860840FERNANDEZ           RIVERA              ROBI ALBERTO                                                9211000000018141915CSA     GEN20221201        
+3500000000000000000113860840FERNANDEZ           RIVERA              ROBI ALBERTO                                                9211000000000000000CPE     S  2022121020221210
+3500000000000000000113860840FERNANDEZ           RIVERA              ROBI ALBERTO                                                9211000000000000000 EX        20221217        
+3500000000000000000113950181GONZALEZ            CERDAS              ESTEBAN                                                     8321000000053268400CSA     GEN20221201        
+3500000000000000000114030183HURTADO             VARGAS              JHONNY RAFAEL                                               9211000000038867775CSA     GEN20221201        
+3500000000000000000114050273GARBANZO            BARBOZA             ESTEBAN                                                     4132000000056948810CSA     GEN20221201        
+3500000000000000000114050831GAMBOA              UREÑA               FRANCISCO                                                   9211000000028350620CIC08DIUGEN20221201        
+3500000000000000000114060565SOLANO              CISNEROS            BEATRIZ DEL CARMEN                                          9211000000038564795CSA     GEN20221201        
+3500000000000000000114060565SOLANO              CISNEROS            BEATRIZ DEL CARMEN                                          9211000000000000000CPE     S  2022121220221212
+3500000000000000000114060565SOLANO              CISNEROS            BEATRIZ DEL CARMEN                                          9211000000000000000CPE     S  2022122120221221
+3500000000000000000114060565SOLANO              CISNEROS            BEATRIZ DEL CARMEN                                          9211000000000000000CPE     S  2022122320221223
+3500000000000000000114140702ROJAS               TORRES              GREDDY DE JESUS                                             8321000000021743270CSA     GEN20221201        
+3500000000000000000114140702ROJAS               TORRES              GREDDY DE JESUS                                             8321000000000000000CPE     S  2022121020221210
+3500000000000000000114140702ROJAS               TORRES              GREDDY DE JESUS                                             8321000000000000000CPE     S  2022121720221217
+3500000000000000000114140702ROJAS               TORRES              GREDDY DE JESUS                                             8321000000000000000CPE     S  2022122220221224
+3500000000000000000114140702ROJAS               TORRES              GREDDY DE JESUS                                             8321000000000000000 EX        20221222        
+3500000000000000000114210119ROJAS               MENA                GREIVIN ANTONIO                                             9211000000007128075CSA     GEN20221201        
+3500000000000000000114210119ROJAS               MENA                GREIVIN ANTONIO                                             9211000000000000000CIN     SEM2022120120221201
+3500000000000000000114210119ROJAS               MENA                GREIVIN ANTONIO                                             9211000000000000000CIN     SEM2022120420221204
+3500000000000000000114210119ROJAS               MENA                GREIVIN ANTONIO                                             9211000000000000000CIN     SEM2022121120221211
+3500000000000000000114210119ROJAS               MENA                GREIVIN ANTONIO                                             9211000000000000000CIN     SEM2022121820221218
+3500000000000000000114210119ROJAS               MENA                GREIVIN ANTONIO                                             9211000000000000000CIN     SEM2022122520221225
+3500000000000000000114220136ASTUA               UREÑA               RONE BERNAL                                                 9211000000040799320CIC08DIUGEN20221201        
+3500000000000000000114220136ASTUA               UREÑA               RONE BERNAL                                                 9211000000000000000CPE     S  2022121220221212
+3500000000000000000114220136ASTUA               UREÑA               RONE BERNAL                                                 9211000000000000000CPE     S  2022121720221217
+3500000000000000000114220388VENEGAS             ARAYA               ROBIN                                                       8321000000065423645CSA     GEN20221201        
+3500000000000000000114430365VARGAS              PEREZ               DIXIA                                                       9211000000018154215CSA     GEN20221201        
+3500000000000000000114430365VARGAS              PEREZ               DIXIA                                                       9211000000000000000CPE     S  2022121220221212
+3500000000000000000114430365VARGAS              PEREZ               DIXIA                                                       9211000000000000000 EX        20221217        
+3500000000000000000114480952VILLANUEVA          CHAVES              LESLIE                                                      9211000000042053600CSA     GEN20221201        
+3500000000000000000114530256HURTADO             VARGAS              ASUNCION                                                    9211000000046310595CSA     GEN20221201        
+3500000000000000000114690119BADILLA             MOLINA              JAVIER ANTONIO                                              8321000000073539505CSA     GEN20221201        
+3500000000000000000114750787MADRIGAL            ROJAS               RAFAEL ANTONIO                                              9211000000050962220CSA     GEN20221201        
+3500000000000000000114750787MADRIGAL            ROJAS               RAFAEL ANTONIO                                              9211000000000000000CPE     S  2022121220221212
+3500000000000000000114790313PALACIOS            DUARTE              MIGUEL ANGEL                                                9211000000025822055CSA     GEN20221201        
+3500000000000000000114790313PALACIOS            DUARTE              MIGUEL ANGEL                                                9211000000000000000CPE     S  2022120120221201
+3500000000000000000114790313PALACIOS            DUARTE              MIGUEL ANGEL                                                9211000000000000000CPE     S  2022121020221210
+3500000000000000000114790313PALACIOS            DUARTE              MIGUEL ANGEL                                                9211000000000000000CPE     S  2022121220221212
+3500000000000000000114790313PALACIOS            DUARTE              MIGUEL ANGEL                                                9211000000000000000CPE     S  2022121720221228
+3500000000000000000114790313PALACIOS            DUARTE              MIGUEL ANGEL                                                9211000000000000000 EX        20221224        
+3500000000000000000114860797BARBOZA             GARBANZO            GARILYN                                                     9211000000051140500CSA     GEN20221201        
+3500000000000000000114860815LORIA               CHAVES              CRISTHIAN FROILAN                                           8321000000079254845CSA     GEN20221201        
+3500000000000000000114870586ARAUZ               SOLIS               RONALD ELIAS                                                9211000000051788660CSA     GEN20221201        
+3500000000000000000114980651CHAVES              JIMENEZ             BREINER ALBERTO                                             8321000000088008585CSA     GEN20221201        
+3500000000000000000114980940TREJOS              ROJAS               LUIS MANUEL                                                 9211000000032745745CSA     GEN20221201        
+3500000000000000000114980940TREJOS              ROJAS               LUIS MANUEL                                                 9211000000000000000CIN     SEM2022120120221201
+3500000000000000000114980940TREJOS              ROJAS               LUIS MANUEL                                                 9211000000000000000CIN     SEM2022121320221213
+3500000000000000000114980940TREJOS              ROJAS               LUIS MANUEL                                                 9211000000000000000 EX        20221220        
+3500000000000000000115070294SERRACIN            CONCEPCION          ROLBIN FABIAN                                               4132000000043931285CSA     GEN20221201        
+3500000000000000000115110458JIMENEZ             ESTRADA             JONATHAN                                                    9211000000044772025CSA     GEN20221201        
+3500000000000000000115130535RETANA              ZUMBADO             JAVIER BOLIVAR                                              4132000000064018800CSA     GEN20221201        
+3500000000000000000115140345OBANDO              VINDAS              STEVEN JESUS                                                9211000000059543990CSA     GEN20221201        
+3500000000000000000115240383GONZALEZ            CERDAS              JOSE PABLO                                                  8321000000061708075CSA     GEN20221201        
+3500000000000000000115260498SALAZAR             VALVERDE            EFREN                                                       8321000000061494540CSA     GEN20221201        
+3500000000000000000115280351NAVAS               QUIEL               RANDY JOSUE                                                 8321000000053425510CSA     GEN20221201        
+3500000000000000000115330376GUTIERREZ           SANCHEZ             ERICK FERNANDO                                              4132000000056500175CSA     GEN20221201        
+3500000000000000000115360101CHINCHILLA          ABARCA              LAURA                                                       9211000000043626910CSA     GEN20221201        
+3500000000000000000115360136ALTAMIRANO          ATENCIO             DALILA                                                      9211000000016396845CSA     GEN20221201        
+3500000000000000000115360136ALTAMIRANO          ATENCIO             DALILA                                                      9211000000000000000 EX        20221217        
+3500000000000000000115400366MENA                CHAVES              JEUDY GERARDO                                               8321000000084475695CSA     GEN20221201        
+3500000000000000000115400723CORDERO             VILLANUEVA          SIVIANY                                                     9211000000036740775CSA     GEN20221201        
+3500000000000000000115410048MONGE               ROJAS               JUAN CARLOS                                                 9211000000037777890CSA     GEN20221201        
+3500000000000000000115420590NAVARRO             CHAVES              WILSON ANTONIO                                              9211000000058370930CSA     GEN20221201        
+3500000000000000000115420590NAVARRO             CHAVES              WILSON ANTONIO                                              9211000000000000000CPE     S  2022120220221202
+3500000000000000000115460704UMAÑA               BEITA               MARIO DAVID                                                 9211000000051214400CSA     GEN20221201        
+3500000000000000000115460704UMAÑA               BEITA               MARIO DAVID                                                 9211000000000000000CIN     SEM2022122120221221
+3500000000000000000115470420MUÑOZ               CASTRO              WILLIAM                                                     9211000000017406920CSA     GEN20221201        
+3500000000000000000115470420MUÑOZ               CASTRO              WILLIAM                                                     9211000000000000000CPE     S  2022121520221215
+3500000000000000000115470420MUÑOZ               CASTRO              WILLIAM                                                     9211000000000000000 EX        20221217        
+3500000000000000000115530548VILLANUEVA          FERNANDEZ           SHIRLEY CLARET                                              9211000000019113425CSA     GEN20221201        
+3500000000000000000115530548VILLANUEVA          FERNANDEZ           SHIRLEY CLARET                                              9211000000000000000 EX        20221217        
+3500000000000000000115540055BARBOZA             GARBANZO            DIEGO ARMANDO                                               9211000000000000000CSA     GEN20221201        
+3500000000000000000115540055BARBOZA             GARBANZO            DIEGO ARMANDO                                               9211000000000000000CIN     INS2022120120221201
+3500000000000000000115540055BARBOZA             GARBANZO            DIEGO ARMANDO                                               9211000000000000000CIN     INS2022120420221204
+3500000000000000000115540055BARBOZA             GARBANZO            DIEGO ARMANDO                                               9211000000000000000CIN     INS2022121120221211
+3500000000000000000115540055BARBOZA             GARBANZO            DIEGO ARMANDO                                               9211000000000000000CIN     INS2022121820221218
+3500000000000000000115540055BARBOZA             GARBANZO            DIEGO ARMANDO                                               9211000000000000000CIN     INS2022122520221225
+3500000000000000000115540059BEITA               SANCHEZ             JOSE ALEJANDRO                                              9211000000036096465CSA     GEN20221201        
+3500000000000000000115630122CHAVES              JIMENEZ             GREILYN GINETTE                                             4132000000038704215CSA     GEN20221201        
+3500000000000000000115750825MONGE               CHAVARRIA           CRISTHIAN ALBERTO                                           9211000000028488245CSA     GEN20221201        
+3500000000000000000115750825MONGE               CHAVARRIA           CRISTHIAN ALBERTO                                           9211000000000000000CPE     S  2022120920221209
+3500000000000000000115750825MONGE               CHAVARRIA           CRISTHIAN ALBERTO                                           9211000000000000000CPE     S  2022122220221222
+3500000000000000000115750825MONGE               CHAVARRIA           CRISTHIAN ALBERTO                                           9211000000000000000CIN     SEM2022122620221226
+3500000000000000000115880060VEGA                JIMENEZ             RONNY JESUS                                                 4132000000039781555CSA     GEN20221201        
+3500000000000000000115890266BEITA               ROJAS               FRANCINI DANIELA                                            9211000000035288580CSA     GEN20221201        
+3500000000000000000115910121ARAUZ               SALAZAR             ALBERTO JOSE                                                8321000000083435045CSA     GEN20221201        
+3500000000000000000115910121ARAUZ               SALAZAR             ALBERTO JOSE                                                8321000000000000000CPE     S  2022120120221201
+3500000000000000000115920290SANCHEZ             FALLAS              JOSE LUIS                                                   9211000000045167310CSA     GEN20221201        
+3500000000000000000115920290SANCHEZ             FALLAS              JOSE LUIS                                                   9211000000000000000CPE     S  2022121020221210
+3500000000000000000115920290SANCHEZ             FALLAS              JOSE LUIS                                                   9211000000000000000CPE     S  2022122320221223
+3500000000000000000115970726GOMEZ               ARIAS               ALFONSO                                                     9211000000059866220CSA     GEN20221201        
+3500000000000000000116010222FERNANDEZ           ROJAS               CRISTHIAN YOHEL                                             4132000000039981065CSA     GEN20221201        
+3500000000000000000116030056BEITA               SANDI               ADRIAN                                                      9211000000026699130CIC08DIUGEN20221201        
+3500000000000000000116030056BEITA               SANDI               ADRIAN                                                      9211000000000000000CPE     S  2022122420221224
+3500000000000000000116030056BEITA               SANDI               ADRIAN                                                      9211000000000000000CPE     S  2022122720221227
+3500000000000000000116040775RODRIGUEZ           MORA                JESUS ANTONIO                                               9211000000052225750CSA     GEN20221201        
+3500000000000000000116050416FIGUEROA            FIGUEROA            SANTOS OSVALDO                                              9211000000050819700CSA     GEN20221201        
+3500000000000000000116050416FIGUEROA            FIGUEROA            SANTOS OSVALDO                                              9211000000000000000CPE     S  2022120120221201
+3500000000000000000116050416FIGUEROA            FIGUEROA            SANTOS OSVALDO                                              9211000000000000000CIN     SEM2022122820221229
+3500000000000000000116060035MUÑOZ               OBANDO              MAURICIO                                                    9211000000035369945CSA     GEN20221201        
+3500000000000000000116180199GONZALEZ            CHAVES              DYLAN JOSUE                                                 9211000000037720375CSA     GEN20221201        
+3500000000000000000116220283ROMAN               MUÑOZ               JOSE DIEGO                                                  9211000000039489180CSA     GEN20221201        
+3500000000000000000116290176MUÑOZ               BEITA               YEINER                                                      9211000000055630010CSA     GEN20221201        
+3500000000000000000116290176MUÑOZ               BEITA               YEINER                                                      9211000000000000000CPE     S  2022121720221217
+3500000000000000000116360059VARGAS              CHAVES              ROY ANDREY                                                  8321000000038722035CSA     GEN20221201        
+3500000000000000000116490849SANCHEZ             FALLAS              JUAN CARLOS                                                 9211000000037158075CSA     GEN20221201        
+3500000000000000000116490849SANCHEZ             FALLAS              JUAN CARLOS                                                 9211000000000000000CPE     S  2022120320221203
+3500000000000000000116500697LOBO                ARIAS               JORGE MARIO                                                 9211000000074672585CSA     GEN20221201        
+3500000000000000000116560688ROJAS               MADRIGAL            YOMIRA                                                      9211000000047936620CSA     GEN20221201        
+3500000000000000000116560688ROJAS               MADRIGAL            YOMIRA                                                      9211000000000000000CPE     S  2022121120221211
+3500000000000000000116570353MENA                GARCIA              LARRY GERARDO                                               9211000000032754600CSA     GEN20221201        
+3500000000000000000116570353MENA                GARCIA              LARRY GERARDO                                               9211000000000000000CPE     S  2022120220221202
+3500000000000000000116570359VILLANUEVA          CHAVES              ANDRES DE LOS ANGELES                                       4132000000054788670CSA     GEN20221201        
+3500000000000000000116610492GARCIA              ARIAS               JOSE ANDRES                                                 9211000000027524875CSA     GEN20221201        
+3500000000000000000116610492GARCIA              ARIAS               JOSE ANDRES                                                 9211000000000000000CPE     S  2022120120221201
+3500000000000000000116610492GARCIA              ARIAS               JOSE ANDRES                                                 9211000000000000000CPE     S  2022121020221210
+3500000000000000000116610492GARCIA              ARIAS               JOSE ANDRES                                                 9211000000000000000CPE     S  2022121720221217
+3500000000000000000116650453MUÑOZ               FUENTES             ROSA MARIA                                                  9211000000043365400CSA     GEN20221201        
+3500000000000000000116650453MUÑOZ               FUENTES             ROSA MARIA                                                  9211000000000000000CPE     S  2022120120221201
+3500000000000000000116650453MUÑOZ               FUENTES             ROSA MARIA                                                  9211000000000000000CPE     S  2022121120221211
+3500000000000000000116650453MUÑOZ               FUENTES             ROSA MARIA                                                  9211000000000000000CIN     INS2022121820221218
+3500000000000000000116650453MUÑOZ               FUENTES             ROSA MARIA                                                  9211000000000000000CPE     S  2022122020221221
+3500000000000000000116690450BOGANTES            RODRIGUEZ           GERALD FABIAN                                               8321000000059895465CSA     GEN20221201        
+3500000000000000000116690450BOGANTES            RODRIGUEZ           GERALD FABIAN                                               8321000000000000000CIN     INS2022120120221201
+3500000000000000000116690450BOGANTES            RODRIGUEZ           GERALD FABIAN                                               8321000000000000000CIN     SEM2022120120221201
+3500000000000000000116690450BOGANTES            RODRIGUEZ           GERALD FABIAN                                               8321000000000000000 OC        20221229        
+3500000000000000000116720481GUZMAN              BEJARANO            LUIS HILARIO                                                9211000000027800125CSA     GEN20221201        
+3500000000000000000116720481GUZMAN              BEJARANO            LUIS HILARIO                                                9211000000000000000CIN     INS2022120120221201
+3500000000000000000116730194ULATE               ROJAS               NELSON GERARDO                                              9211000000041115280CSA     GEN20221201        
+3500000000000000000116740213ZUÑIGA              CHAVARRIA           JOSEP JOSUE                                                 9211000000008304170CSA     GEN20221201        
+3500000000000000000116740213ZUÑIGA              CHAVARRIA           JOSEP JOSUE                                                 9211000000000000000CPE     S  2022120120221201
+3500000000000000000116740213ZUÑIGA              CHAVARRIA           JOSEP JOSUE                                                 9211000000000000000CPE     S  2022120720221210
+3500000000000000000116740213ZUÑIGA              CHAVARRIA           JOSEP JOSUE                                                 9211000000000000000CPE     S  2022121220221215
+3500000000000000000116740213ZUÑIGA              CHAVARRIA           JOSEP JOSUE                                                 9211000000000000000 EX        20221212        
+3500000000000000000116760479MORGAN              GONZALEZ            CRISTYN FRANCELA                                            9211000000007569340CSA     GEN20221201        
+3500000000000000000116760479MORGAN              GONZALEZ            CRISTYN FRANCELA                                            9211000000000000000CPE     S  2022120120221201
+3500000000000000000116760479MORGAN              GONZALEZ            CRISTYN FRANCELA                                            9211000000000000000CPE     S  2022120720221210
+3500000000000000000116760479MORGAN              GONZALEZ            CRISTYN FRANCELA                                            9211000000000000000CPE     S  2022121220221217
+3500000000000000000116760479MORGAN              GONZALEZ            CRISTYN FRANCELA                                            9211000000000000000CPE     S  2022121920221219
+3500000000000000000116760479MORGAN              GONZALEZ            CRISTYN FRANCELA                                            9211000000000000000 EX        20221219        
+3500000000000000000116770384CAMPOS              QUESADA             JEUDY ARTURO                                                9211000000033725605CSA     GEN20221201        
+3500000000000000000116790650NAJERA              ARIAS               MINOR GERARDO                                               9211000000054838640CSA     GEN20221201        
+3500000000000000000116790650NAJERA              ARIAS               MINOR GERARDO                                               9211000000000000000 OC        20221207        
+3500000000000000000116790656ALVAREZ             LOPEZ               MARIO ENRIQUE                                               9211000000015718825CSA     GEN20221201        
+3500000000000000000116790656ALVAREZ             LOPEZ               MARIO ENRIQUE                                               9211000000000000000 EX        20221217        
+3500000000000000000116880199BEITA               ROJAS               SAUL                                                        9211000000046158665CSA     GEN20221201        
+3500000000000000000116900142SIBAJA              ALFARO              ANDRES JOSUE                                                9211000000043185625CSA     GEN20221201        
+3500000000000000000116920370QUESADA             SOLIS               LEIDY YIRLANY                                               9211000000033030965CSA     GEN20221201        
+3500000000000000000116930622ORTIZ               NUÑEZ               JOSE ALEJANDRO                                              9211000000035681075CSA     GEN20221201        
+3500000000000000000116940495CORDERO             VILLANUEVA          JUAN DANIEL                                                 9211000000017615920CSA     GEN20221201        
+3500000000000000000116940495CORDERO             VILLANUEVA          JUAN DANIEL                                                 9211000000000000000CPE     S  2022120120221201
+3500000000000000000116940495CORDERO             VILLANUEVA          JUAN DANIEL                                                 9211000000000000000CPE     S  2022121020221210
+3500000000000000000116940495CORDERO             VILLANUEVA          JUAN DANIEL                                                 9211000000000000000CPE     S  2022121220221212
+3500000000000000000116940495CORDERO             VILLANUEVA          JUAN DANIEL                                                 9211000000000000000CPE     S  2022121520221216
+3500000000000000000116940495CORDERO             VILLANUEVA          JUAN DANIEL                                                 9211000000000000000 EX        20221215        
+3500000000000000000116980632MONTOYA             RETANA              REYSHELL JAZMIN                                             9211000000018787610CSA     GEN20221201        
+3500000000000000000116980632MONTOYA             RETANA              REYSHELL JAZMIN                                             9211000000000000000 EX        20221217        
+3500000000000000000116990117SOLANO              CASCANTE            JEAN CARLOS                                                 4132000000036523465CSA     GEN20221201        
+3500000000000000000116990146CEDEÑO              CORDERO             CESAR CRISTHIAN                                             9211000000027774435CSA     GEN20221201        
+3500000000000000000116990146CEDEÑO              CORDERO             CESAR CRISTHIAN                                             9211000000000000000CPE     S  2022120120221201
+3500000000000000000116990146CEDEÑO              CORDERO             CESAR CRISTHIAN                                             9211000000000000000CPE     S  2022120520221205
+3500000000000000000116990146CEDEÑO              CORDERO             CESAR CRISTHIAN                                             9211000000000000000CPE     S  2022120820221208
+3500000000000000000116990146CEDEÑO              CORDERO             CESAR CRISTHIAN                                             9211000000000000000CIN     SEM2022121320221213
+3500000000000000000116990146CEDEÑO              CORDERO             CESAR CRISTHIAN                                             9211000000000000000CPE     S  2022121720221217
+3500000000000000000116990146CEDEÑO              CORDERO             CESAR CRISTHIAN                                             9211000000000000000CPE     S  2022121920221224
+3500000000000000000116990146CEDEÑO              CORDERO             CESAR CRISTHIAN                                             9211000000000000000CPE     S  2022122620221227
+3500000000000000000116990146CEDEÑO              CORDERO             CESAR CRISTHIAN                                             9211000000000000000CPE     S  2022122920221230
+3500000000000000000117010217MORA                DURAN               ADRIAN JOSUE                                                8321000000098391215CSA     GEN20221201        
+3500000000000000000117010443DUARTE              DIAZ                ANDREY GERARDO                                              9211000000046357530CSA     GEN20221201        
+3500000000000000000117010443DUARTE              DIAZ                ANDREY GERARDO                                              9211000000000000000CPE     S  2022121020221210
+3500000000000000000117020356QUIROS              CORDERO             DAVID JESUS                                                 9211000000014975135CSA     GEN20221201        
+3500000000000000000117020356QUIROS              CORDERO             DAVID JESUS                                                 9211000000000000000CPE     S  2022121020221210
+3500000000000000000117020356QUIROS              CORDERO             DAVID JESUS                                                 9211000000000000000 EX        20221217        
+3500000000000000000117020719VEGA                MARIN               ADONIS                                                      9211000000033167470CIC08DIUGEN20221201        
+3500000000000000000117020742SOLORZANO           BEITA               MAIRENA                                                     9211000000052913155CSA     GEN20221201        
+3500000000000000000117020742SOLORZANO           BEITA               MAIRENA                                                     9211000000000000000CIN     SEM2022120120221201
+3500000000000000000117020742SOLORZANO           BEITA               MAIRENA                                                     9211000000000000000CPE     S  2022121020221210
+3500000000000000000117040813UMAÑA               CARBALLO            MILBERTH ADUTH                                              9211000000055473595CSA     GEN20221201        
+3500000000000000000117040813UMAÑA               CARBALLO            MILBERTH ADUTH                                              9211000000000000000CIN     SEM2022121220221212
+3500000000000000000117100852CESPEDES            CRUZ                ANDRES GERARDO                                              8321000000055538365CSA     GEN20221201        
+3500000000000000000117100852CESPEDES            CRUZ                ANDRES GERARDO                                              8321000000000000000CIN     SEM2022120120221201
+3500000000000000000117110480JARA                MORALES             JUNIOR FERNANDO                                             9211000000059877850CSA     GEN20221201        
+3500000000000000000117120076TORRES              NAJERA              LEIDY NATASHA                                               9211000000042811005CSA     GEN20221201        
+3500000000000000000117120988ARAUZ               SOLIS               ROBERTH ALONSO                                              9211000000033167475CSA     GEN20221201        
+3500000000000000000117170109ALEMAN              ALEMAN              RONALD RONALDO                                              9211000000035507085CSA     GEN20221201        
+3500000000000000000117190408CONCEPCION          ELIZONDO            YANORY                                                      9211000000046147925CSA     GEN20221201        
+3500000000000000000117250237BADILLA             CARRAZCO            JOHAN DE JESUS                                              4132000000054465210CSA     GEN20221201        
+3500000000000000000117270810ABARCA              VARGAS              HERIBERTO                                                   9211000000056316005CSA     GEN20221201        
+3500000000000000000117270810ABARCA              VARGAS              HERIBERTO                                                   9211000000000000000CIN     SEM2022122920221229
+3500000000000000000117280466MATA                BARRANTES           ALLAN FRANCISCO                                             9211000000032893275CSA     GEN20221201        
+3500000000000000000117280466MATA                BARRANTES           ALLAN FRANCISCO                                             9211000000000000000CIN     SEM2022121320221213
+3500000000000000000117290493MORALES             NAJERA              HENRY EDUARDO                                               9211000000014794320CSA     GEN20221201        
+3500000000000000000117290493MORALES             NAJERA              HENRY EDUARDO                                               9211000000000000000CPE     S  2022121420221214
+3500000000000000000117290493MORALES             NAJERA              HENRY EDUARDO                                               9211000000000000000 EX        20221211        
+3500000000000000000117310015ORTIZ               NUÑEZ               DIDIER ESTEBAN                                              9211000000038670325CSA     GEN20221201        
+3500000000000000000117370888MARIN               GARCIA              JEAN CARLO                                                  9211000000035127690CSA     GEN20221201        
+3500000000000000000117370888MARIN               GARCIA              JEAN CARLO                                                  9211000000000000000CPE     S  2022121420221214
+3500000000000000000117370888MARIN               GARCIA              JEAN CARLO                                                  9211000000000000000CPE     S  2022122220221222
+3500000000000000000117380620GARCIA              RODRIGUEZ           MARVIN RONALDO                                              9211000000057835425CSA     GEN20221201        
+3500000000000000000117380972VILLEGAS            PEREZ               JOHAN                                                       9211000000031928855CSA     GEN20221201        
+3500000000000000000117400588VARGAS              GONZALEZ            JACSURY FABIOLA                                             9211000000021882275CSA     GEN20221201        
+3500000000000000000117400588VARGAS              GONZALEZ            JACSURY FABIOLA                                             9211000000000000000CPE     S  2022121420221214
+3500000000000000000117400588VARGAS              GONZALEZ            JACSURY FABIOLA                                             9211000000000000000CPE     S  2022121720221217
+3500000000000000000117400588VARGAS              GONZALEZ            JACSURY FABIOLA                                             9211000000000000000CPE     S  2022122120221224
+3500000000000000000117400588VARGAS              GONZALEZ            JACSURY FABIOLA                                             9211000000000000000CPE     S  2022122620221230
+3500000000000000000117430942JIMENEZ             ARAUZ               JOSE FABIAN                                                 9211000000030277365CIC08DIUGEN20221201        
+3500000000000000000117440997BEITA               ROJAS               ADRIANA DANIELA                                             9211000000035106375CSA     GEN20221201        
+3500000000000000000117470229ROMERO              CONCEPCION          JOSE ANDRES                                                 9211000000059363875CSA     GEN20221201        
+3500000000000000000117510032LARA                JIMENEZ             MARIA YULISSA                                               4132000000036948560CSA     GEN20221201        
+3500000000000000000117560521SANCHEZ             BARBOZA             LUIS ENRIQUE                                                9211000000033115715CSA     GEN20221201        
+3500000000000000000117560521SANCHEZ             BARBOZA             LUIS ENRIQUE                                                9211000000000000000CPE     S  2022121820221218
+3500000000000000000117560521SANCHEZ             BARBOZA             LUIS ENRIQUE                                                9211000000000000000CIN     SEM2022122520221225
+3500000000000000000117570431AZOFEIFA            MORA                STEVEN JOSUE                                                4132000000041856410CSA     GEN20221201        
+3500000000000000000117610721MONGE               ROJAS               ANA MARIA                                                   9211000000031922010CSA     GEN20221201        
+3500000000000000000117610721MONGE               ROJAS               ANA MARIA                                                   9211000000000000000CPE     S  2022120220221202
+3500000000000000000117610721MONGE               ROJAS               ANA MARIA                                                   9211000000000000000CPE     S  2022121220221212
+3500000000000000000117650003CASCANTE            ATENCIO             DENNIER ENRIQUE                                             9211000000056558740CSA     GEN20221201        
+3500000000000000000117650003CASCANTE            ATENCIO             DENNIER ENRIQUE                                             9211000000000000000CPE     S  2022121020221210
+3500000000000000000117700549MORALES             DELGADO             JUNIOR DAVID                                                9211000000029114525CIC08DIUGEN20221201        
+3500000000000000000117700549MORALES             DELGADO             JUNIOR DAVID                                                9211000000000000000CPE     S  2022120620221206
+3500000000000000000117700663ROJAS               MORALES             ALICIA MARIA                                                9211000000052775530CSA     GEN20221201        
+3500000000000000000117700663ROJAS               MORALES             ALICIA MARIA                                                9211000000000000000CPE     S  2022121020221210
+3500000000000000000117750379CORDERO             VILLANUEVA          MARIELA                                                     9211000000016618075CSA     GEN20221201        
+3500000000000000000117750379CORDERO             VILLANUEVA          MARIELA                                                     9211000000000000000CPE     S  2022120120221201
+3500000000000000000117750379CORDERO             VILLANUEVA          MARIELA                                                     9211000000000000000CPE     S  2022121020221210
+3500000000000000000117750379CORDERO             VILLANUEVA          MARIELA                                                     9211000000000000000 EX        20221217        
+3500000000000000000117750671CESPEDES            CRUZ                ADRIAN FERNANDO                                             8321000000087135965CSA     GEN20221201        
+3500000000000000000117760320BLANCO              GARBANZO            KEYLOR JOAQUIN                                              9211000000055738135CSA     GEN20221201        
+3500000000000000000117760320BLANCO              GARBANZO            KEYLOR JOAQUIN                                              9211000000000000000CIN     SEM2022121920221219
+3500000000000000000117760320BLANCO              GARBANZO            KEYLOR JOAQUIN                                              9211000000000000000CIN     SEM2022122620221226
+3500000000000000000117760552ROJAS               PADILLA             ANYELY MARIA                                                9211000000039286210CSA     GEN20221201        
+3500000000000000000117760645MUÑOZ               FUENTES             STEFANY DE LOS ANGELES                                      9211000000048697150CSA     GEN20221201        
+3500000000000000000117760645MUÑOZ               FUENTES             STEFANY DE LOS ANGELES                                      9211000000000000000CPE     S  2022121120221211
+3500000000000000000117760645MUÑOZ               FUENTES             STEFANY DE LOS ANGELES                                      9211000000000000000CPE     S  2022121320221213
+3500000000000000000117760645MUÑOZ               FUENTES             STEFANY DE LOS ANGELES                                      9211000000000000000CPE     S  2022121920221219
+3500000000000000000117790156ABARCA              NAJERA              CARLOS ANDRES                                               9211000000035686055CSA     GEN20221201        
+3500000000000000000117790156ABARCA              NAJERA              CARLOS ANDRES                                               9211000000000000000CPE     S  2022120120221201
+3500000000000000000117790156ABARCA              NAJERA              CARLOS ANDRES                                               9211000000000000000CPE     S  2022121220221212
+3500000000000000000117810387GODINEZ             QUESADA             ANDY ALBERTO                                                9211000000045691285CSA     GEN20221201        
+3500000000000000000117840960JIMENEZ             TORRES              EDWIN GERARDO                                               9211000000038040340CSA     GEN20221201        
+3500000000000000000117840960JIMENEZ             TORRES              EDWIN GERARDO                                               9211000000000000000CPE     S  2022120320221203
+3500000000000000000117840960JIMENEZ             TORRES              EDWIN GERARDO                                               9211000000000000000CPE     S  2022122020221224
+3500000000000000000117840960JIMENEZ             TORRES              EDWIN GERARDO                                               9211000000000000000 EX        20221221        
+3500000000000000000117880845BERMUDEZ            MORALES             LUZ ANGELICA                                                9211000000015445900CSA     GEN20221201        
+3500000000000000000117880845BERMUDEZ            MORALES             LUZ ANGELICA                                                9211000000000000000CIN     SEM2022120120221201
+3500000000000000000117880845BERMUDEZ            MORALES             LUZ ANGELICA                                                9211000000000000000CIN     SEM2022120820221209
+3500000000000000000117880845BERMUDEZ            MORALES             LUZ ANGELICA                                                9211000000000000000CPE     S  2022121020221210
+3500000000000000000117880845BERMUDEZ            MORALES             LUZ ANGELICA                                                9211000000000000000 EX        20221217        
+3500000000000000000117890202MARIN               AGUILAR             EDWIN PEDRO                                                 9211000000036462800CSA     GEN20221201        
+3500000000000000000117890397SANCHEZ             ROJAS               ANDREY GUILLERMO                                            9211000000031928855CSA     GEN20221201        
+3500000000000000000117910743ROMAN               MUÑOZ               JOSE ANTONIO                                                9211000000047836600CSA     GEN20221201        
+3500000000000000000117910991VARGAS              MUÑOZ               HEINER JOSE                                                 9211000000019583310CSA     GEN20221201        
+3500000000000000000117910991VARGAS              MUÑOZ               HEINER JOSE                                                 9211000000000000000 EX        20221217        
+3500000000000000000117930231GRANADOS            MOLINA              ROY FRANCISCO                                               9211000000017465445CSA     GEN20221201        
+3500000000000000000117930231GRANADOS            MOLINA              ROY FRANCISCO                                               9211000000000000000CPE     S  2022121220221212
+3500000000000000000117930231GRANADOS            MOLINA              ROY FRANCISCO                                               9211000000000000000 EX        20221217        
+3500000000000000000117940406HERNANDEZ           SANCHEZ             DAILER JOSUE                                                9211000000032103020CSA     GEN20221201        
+3500000000000000000117940406HERNANDEZ           SANCHEZ             DAILER JOSUE                                                9211000000000000000CIN     INS2022122120221222
+3500000000000000000117940406HERNANDEZ           SANCHEZ             DAILER JOSUE                                                9211000000000000000CPE     S  2022122420221224
+3500000000000000000117990531CHINCHILLA          SANCHEZ             ROGER ANDREY                                                9211000000006124285CSA     GEN20221201        
+3500000000000000000117990531CHINCHILLA          SANCHEZ             ROGER ANDREY                                                9211000000000000000CIN     SEM2022120120221201
+3500000000000000000117990531CHINCHILLA          SANCHEZ             ROGER ANDREY                                                9211000000000000000CPE     S  2022120220221202
+3500000000000000000117990531CHINCHILLA          SANCHEZ             ROGER ANDREY                                                9211000000000000000CPE     S  2022120420221204
+3500000000000000000117990531CHINCHILLA          SANCHEZ             ROGER ANDREY                                                9211000000000000000CIN     SEM2022121120221211
+3500000000000000000117990531CHINCHILLA          SANCHEZ             ROGER ANDREY                                                9211000000000000000CPE     S  2022121120221214
+3500000000000000000117990531CHINCHILLA          SANCHEZ             ROGER ANDREY                                                9211000000000000000CPE     S  2022121820221221
+3500000000000000000117990531CHINCHILLA          SANCHEZ             ROGER ANDREY                                                9211000000000000000CPE     S  2022122320221224
+3500000000000000000117990531CHINCHILLA          SANCHEZ             ROGER ANDREY                                                9211000000000000000CIN     SEM2022122620221230
+3500000000000000000118020738SANTOS              RODRIGUEZ           KENDALL FABRIEL                                             9211000000039191340CSA     GEN20221201        
+3500000000000000000118020738SANTOS              RODRIGUEZ           KENDALL FABRIEL                                             9211000000000000000CPE     S  2022121920221219
+3500000000000000000118020738SANTOS              RODRIGUEZ           KENDALL FABRIEL                                             9211000000000000000 EX        20221219        
+3500000000000000000118020944PALACIOS            HIDALGO             MARISOL                                                     9211000000025942195CSA     GEN20221201        
+3500000000000000000118020944PALACIOS            HIDALGO             MARISOL                                                     9211000000000000000CPE     S  2022120120221201
+3500000000000000000118020944PALACIOS            HIDALGO             MARISOL                                                     9211000000000000000CPE     S  2022120320221203
+3500000000000000000118020944PALACIOS            HIDALGO             MARISOL                                                     9211000000000000000CPE     S  2022121620221216
+3500000000000000000118030034RIOS                JIMENEZ             ROYBIN JAVIER                                               9211000000057303420CSA     GEN20221201        
+3500000000000000000118030436PORTUGUEZ           ROJAS               YOINER                                                      9211000000059866220CSA     GEN20221201        
+3500000000000000000118090182MARIN               HIDALGO             MAIKOL ANDRES                                               9211000000053414195CSA     GEN20221201        
+3500000000000000000118090182MARIN               HIDALGO             MAIKOL ANDRES                                               9211000000000000000CIN     SEM2022121020221210
+3500000000000000000118090182MARIN               HIDALGO             MAIKOL ANDRES                                               9211000000000000000CIN     SEM2022121220221212
+3500000000000000000118110089CARRILLO            CASTILLO            BRYAN EDGARDO                                               9211000000050543610CSA     GEN20221201        
+3500000000000000000118120819SUAZO               AMADOR              WALHEINER                                                   9211000000021704855CSA     GEN20221201        
+3500000000000000000118120819SUAZO               AMADOR              WALHEINER                                                   9211000000000000000 EX        20221217        
+3500000000000000000118130223MAYORGA             NARANJO             YARLIN MARIA                                                9211000000019400715CSA     GEN20221201        
+3500000000000000000118130223MAYORGA             NARANJO             YARLIN MARIA                                                9211000000000000000 EX        20221217        
+3500000000000000000118140627ORTIZ               ROIG                JOSUE JACSON                                                9211000000046003335CSA     GEN20221201        
+3500000000000000000118140627ORTIZ               ROIG                JOSUE JACSON                                                9211000000000000000CPE     S  2022122420221224
+3500000000000000000118160815MONGE               ROJAS               LUIS MAURICIO                                               9211000000032469900CSA     GEN20221201        
+3500000000000000000118160815MONGE               ROJAS               LUIS MAURICIO                                               9211000000000000000CIN     SEM2022120120221201
+3500000000000000000118170596BARBOZA             GARBANZO            MAURO ANDRES                                                9211000000015150405CSA     GEN20221201        
+3500000000000000000118170596BARBOZA             GARBANZO            MAURO ANDRES                                                9211000000000000000CPE     S  2022120120221201
+3500000000000000000118170596BARBOZA             GARBANZO            MAURO ANDRES                                                9211000000000000000CPE     S  2022121620221216
+3500000000000000000118170596BARBOZA             GARBANZO            MAURO ANDRES                                                9211000000000000000 EX        20221217        
+3500000000000000000118180694ARIAS               VILLALOBOS          ANDRES GERARDO                                              9211000000036883325CIC08DIUGEN20221201        
+3500000000000000000118190241VARGAS              CALDERON            KENNETH FABIAN                                              9211000000000000000 OC        20221228        
+3500000000000000000118200121AZOFEIFA            MUÑOZ               HENRY JORSHUA                                               9211000000010437990CSA     GEN20221201        
+3500000000000000000118200121AZOFEIFA            MUÑOZ               HENRY JORSHUA                                               9211000000000000000CPE     S  2022120120221207
+3500000000000000000118200121AZOFEIFA            MUÑOZ               HENRY JORSHUA                                               9211000000000000000 EX        20221202        
+3500000000000000000118250152UMAÑA               FUENTES             JEAN CARLO                                                  9211000000032686910CSA     GEN20221201        
+3500000000000000000118310601TORRES              SALDAÑA             DANNIER                                                     9211000000044346435CSA     GEN20221201        
+3500000000000000000118310720VIDAL               BEITA               KENNETH                                                     9211000000055352635CSA     GEN20221201        
+3500000000000000000118310720VIDAL               BEITA               KENNETH                                                     9211000000000000000CIN     SEM2022122920221229
+3500000000000000000118450019ALFARO              SERRACIN            KEILOR                                                      4132000000038903720CSA     GEN20221201        
+3500000000000000000118470974DINARTE             MUÑOZ               MINOR JOSUE                                                 9211000000047535580CSA     GEN20221201        
+3500000000000000000118470974DINARTE             MUÑOZ               MINOR JOSUE                                                 9211000000000000000CPE     S  2022120120221201
+3500000000000000000118500462ZUÑIGA              TORRES              LEANDER STEVEN                                              9211000000018313940CSA     GEN20221201        
+3500000000000000000118500462ZUÑIGA              TORRES              LEANDER STEVEN                                              9211000000000000000CPE     S  2022121220221212
+3500000000000000000118500462ZUÑIGA              TORRES              LEANDER STEVEN                                              9211000000000000000 EX        20221217        
+3500000000000000000118500574ARGUELLO            BALTODANO           ELBERTH JOEL                                                9211000000048657010CSA     GEN20221201        
+3500000000000000000118540488VILLARREAL          CASCANTE            BRYAN DANIEL                                                9211000000045316350CSA     GEN20221201        
+3500000000000000000118550277CARRILLO            RETANA              WALTER ARMANDO                                              9211000000059931970CSA     GEN20221201        
+3500000000000000000118720129BARBOZA             GARBANZO            BRANDON ADRIAN                                              9211000000022887240CSA     GEN20221201        
+3500000000000000000118720129BARBOZA             GARBANZO            BRANDON ADRIAN                                              9211000000000000000CPE     S  2022120620221206
+3500000000000000000118720129BARBOZA             GARBANZO            BRANDON ADRIAN                                              9211000000000000000CPE     S  2022121020221211
+3500000000000000000118720129BARBOZA             GARBANZO            BRANDON ADRIAN                                              9211000000000000000CPE     S  2022121320221213
+3500000000000000000118720129BARBOZA             GARBANZO            BRANDON ADRIAN                                              9211000000000000000 EX        20221210        
+3500000000000000000118730659MONTOYA             RETANA              VICTOR FABIAN                                               9211000000031928855CSA     GEN20221201        
+3500000000000000000118740645MORA                LOBO                ANYEL CELESTE                                               9211000000020569715CSA     GEN20221201        
+3500000000000000000118740645MORA                LOBO                ANYEL CELESTE                                               9211000000000000000CIN     SEM2022120120221201
+3500000000000000000118740645MORA                LOBO                ANYEL CELESTE                                               9211000000000000000CIN     SEM2022120420221204
+3500000000000000000118740645MORA                LOBO                ANYEL CELESTE                                               9211000000000000000CPE     S  2022121220221212
+3500000000000000000118740645MORA                LOBO                ANYEL CELESTE                                               9211000000000000000CPE     S  2022121420221214
+3500000000000000000118740645MORA                LOBO                ANYEL CELESTE                                               9211000000000000000CIN     SEM2022121520221215
+3500000000000000000118740645MORA                LOBO                ANYEL CELESTE                                               9211000000000000000CPE     S  2022122720221227
+3500000000000000000118900241VARELA              LEIVA               JOSEPH MAURICIO                                             9211000000059866220CSA     GEN20221201        
+3500000000000000000118910028MAYORGA             ROJAS               JUVENAL                                                     9211000000057922270CSA     GEN20221201        
+3500000000000000000118960625VARGAS              VARGAS              HEILYN                                                      9211000000017547110CSA     GEN20221201        
+3500000000000000000118960625VARGAS              VARGAS              HEILYN                                                      9211000000000000000 EX        20221217        
+3500000000000000000118970070GAMBOA              DUARTE              SHEILER                                                     9211000000034729315CSA     GEN20221201        
+3500000000000000000119020043CALDERON            MUÑOZ               JOXAN GERARDO                                               9211000000024394225CSA     GEN20221201        
+3500000000000000000119020043CALDERON            MUÑOZ               JOXAN GERARDO                                               9211000000000000000CIN     SEM2022121320221213
+3500000000000000000119020043CALDERON            MUÑOZ               JOXAN GERARDO                                               9211000000000000000CPE     S  2022121420221215
+3500000000000000000119020043CALDERON            MUÑOZ               JOXAN GERARDO                                               9211000000000000000CPE     S  2022121920221219
+3500000000000000000119020043CALDERON            MUÑOZ               JOXAN GERARDO                                               9211000000000000000CPE     S  2022122120221224
+3500000000000000000119020043CALDERON            MUÑOZ               JOXAN GERARDO                                               9211000000000000000CPE     S  2022122620221230
+3500000000000000000119070497GONZALEZ            MONESTEL            JOHAN ALBERTO                                               9211000000001100995CSA     GEN20221201        
+3500000000000000000119070497GONZALEZ            MONESTEL            JOHAN ALBERTO                                               9211000000000000000CPE     S  2022120120221203
+3500000000000000000119070497GONZALEZ            MONESTEL            JOHAN ALBERTO                                               9211000000000000000CPE     S  2022120520221210
+3500000000000000000119070497GONZALEZ            MONESTEL            JOHAN ALBERTO                                               9211000000000000000CPE     S  2022121220221215
+3500000000000000000119070497GONZALEZ            MONESTEL            JOHAN ALBERTO                                               9211000000000000000 EX        20221211        
+3500000000000000000119110521BRENES              ZUÑIGA              JUSTIN ANTUAN                                               9211000000017990540CSA     GEN20221201        
+3500000000000000000119110521BRENES              ZUÑIGA              JUSTIN ANTUAN                                               9211000000000000000CPE     S  2022120320221203
+3500000000000000000119110521BRENES              ZUÑIGA              JUSTIN ANTUAN                                               9211000000000000000 EX        20221217        
+3500000000000000000119140211AGUILAR             VEGA                LEONARDO                                                    9211000000035086810CSA     GEN20221201        
+3500000000000000000204200094VALENZUELA          HERNANDEZ           MARIO                                                       9211000000042657540CSA     GEN20221201        
+3500000000000000000204600490VILLALOBOS          QUESADA             GERARDO                                                     8315000000043383750CSA     GEN20221201        
+3500000000000000000204920401JIMENEZ             SALAS               LIDIA                                                       9132000000038349745CSA     GEN20221201        
+3500000000000000000205650015MONESTEL            CHAVES              RICHARD                                                     4132000000048998750CSA     GEN20221201        
+3500000000000000000207400713LEAL                VILLALOBOS          REYNA MARCELA                                               9211000000013349565CSA     GEN20221201        
+3500000000000000000207400713LEAL                VILLALOBOS          REYNA MARCELA                                               9211000000000000000 EX        20221217        
+3500000000000000000207660024RODRIGUEZ           MORA                YEISON                                                      9211000000078427170CSA     GEN20221201        
+3500000000000000000304350341ARAYA               CALDERON            JESUS ANTONIO                                               9211000000033466620CSA     GEN20221201        
+3500000000000000000304440065MENDEZ              PICADO              JAIQUEL DAVID                                               9211000000037227380CSA     GEN20221201        
+3500000000000000000304440065MENDEZ              PICADO              JAIQUEL DAVID                                               9211000000000000000CPE     S  2022120120221201
+3500000000000000000304440065MENDEZ              PICADO              JAIQUEL DAVID                                               9211000000000000000CPE     S  2022121920221220
+3500000000000000000304440065MENDEZ              PICADO              JAIQUEL DAVID                                               9211000000000000000CPE     S  2022122620221228
+3500000000000000000304450823BEITA               QUIEL               KAREN TATIANA                                               9211000000031240740CSA     GEN20221201        
+3500000000000000000304590667MIRANDA             ESPINOZA            JESUS MARIA                                                 8321000000083690585CSA     GEN20221201        
+3500000000000000000304960965GAMBOA              UMAÑA               VICTOR MANUEL                                               9211000000034778080CSA     GEN20221201        
+3500000000000000000304960965GAMBOA              UMAÑA               VICTOR MANUEL                                               9211000000000000000CPE     S  2022122620221226
+3500000000000000000305070351CAMACHO             SOLANO              ANTONY JESUS                                                9211000000024841020CSA     GEN20221201        
+3500000000000000000305070351CAMACHO             SOLANO              ANTONY JESUS                                                9211000000000000000CIN     SEM2022121820221218
+3500000000000000000305070351CAMACHO             SOLANO              ANTONY JESUS                                                9211000000000000000CPE     S  2022121920221220
+3500000000000000000305070351CAMACHO             SOLANO              ANTONY JESUS                                                9211000000000000000CIN     SEM2022122520221225
+3500000000000000000305100929PICHARDO            FIGUEROA            FRANKLIN JOSUE                                              9211000000053368755CSA     GEN20221201        
+3500000000000000000305150614SOLANO              SANCHEZ             KEVIN ABDENAGO                                              9211000000047476930CSA     GEN20221201        
+3500000000000000000305150614SOLANO              SANCHEZ             KEVIN ABDENAGO                                              9211000000000000000CIN     SEM2022122620221230
+3500000000000000000305320919ROJAS               CHINCHILLA          JOSE DAVID                                                  9211000000035303415CSA     GEN20221201        
+3500000000000000000305320919ROJAS               CHINCHILLA          JOSE DAVID                                                  9211000000000000000CPE     S  2022122320221223
+3500000000000000000305350293ARAUZ               MONESTEL            DAVID JORSUANY                                              9211000000056490500CSA     GEN20221201        
+3500000000000000000305350293ARAUZ               MONESTEL            DAVID JORSUANY                                              9211000000000000000CPE     S  2022122120221221
+3500000000000000000305360287CAMACHO             SOLANO              MARCO ANTONIO                                               9211000000013112140CSA     GEN20221201        
+3500000000000000000305360287CAMACHO             SOLANO              MARCO ANTONIO                                               9211000000000000000CPE     S  2022120220221202
+3500000000000000000305360287CAMACHO             SOLANO              MARCO ANTONIO                                               9211000000000000000CPE     S  2022121020221210
+3500000000000000000305360287CAMACHO             SOLANO              MARCO ANTONIO                                               9211000000000000000 EX        20221217        
+3500000000000000000305380546PICHARDO            FIGUEROA            LUIS ABRAHAN                                                9211000000033985320CSA     GEN20221201        
+3500000000000000000305380546PICHARDO            FIGUEROA            LUIS ABRAHAN                                                9211000000000000000CIN     SEM2022121320221213
+3500000000000000000305440288FIGUEROA            CONCEPCION          CINDY VANESSA                                               9211000000019167610CSA     GEN20221201        
+3500000000000000000305440288FIGUEROA            CONCEPCION          CINDY VANESSA                                               9211000000000000000 EX        20221217        
+3500000000000000000402030276LOAIZA              ULATE               BYRON BERNARDO                                              9211000000038747710CSA     GEN20221201        
+3500000000000000000402030276LOAIZA              ULATE               BYRON BERNARDO                                              9211000000000000000CPE     S  2022120120221201
+3500000000000000000402030276LOAIZA              ULATE               BYRON BERNARDO                                              9211000000000000000CIN     SEM2022121320221213
+3500000000000000000402280019MONGE               CORRALES            DENNIS JOSE                                                 8321000000065280255CSA     GEN20221201        
+3500000000000000000501800521BOGANTES            SIBAJA              MARCELINO                                                   9211000000032433480CSA     GEN20221201        
+3500000000000000000501800521BOGANTES            SIBAJA              MARCELINO                                                   9211000000000000000CIN     SEM2022120120221201
+3500000000000000000502070931DUARTE              BUZANO              MIGUEL                                                      4132000000055462740CSA     GEN20221201        
+3500000000000000000502750420CAMPOS              GUTIERREZ           ELMON NELSON                                                9211000000054626985CSA     GEN20221201        
+3500000000000000000502770917TREJOS              CHAVARRIA           OSCAR                                                       9211000000037350725CSA     GEN20221201        
+3500000000000000000503280972CANO                MORALES             JOSE WILMER                                                 4132000000061359185CSA     GEN20221201        
+3500000000000000000503320206BERMUDEZ            BERMUDEZ            CINDY PATRICIA                                              9211000000018166415CSA     GEN20221201        
+3500000000000000000503320206BERMUDEZ            BERMUDEZ            CINDY PATRICIA                                              9211000000000000000 EX        20221217        
+3500000000000000000503430791ROJAS               ALVARADO            MYNOR                                                       9211000000034901020CSA     GEN20221201        
+3500000000000000000503430791ROJAS               ALVARADO            MYNOR                                                       9211000000000000000CPE     S  2022120120221201
+3500000000000000000503430791ROJAS               ALVARADO            MYNOR                                                       9211000000000000000CPE     S  2022121920221219
+3500000000000000000503430791ROJAS               ALVARADO            MYNOR                                                       9211000000000000000CPE     S  2022122820221228
+3500000000000000000601300249MONESTEL            MEJIAS              ALCIDADES OLIVIER                                           8321000000047159580CSA     GEN20221201        
+3500000000000000000601570433AVILES              ATENCIO             GERMAN                                                      9211000000032892225CSA     GEN20221201        
+3500000000000000000601580072BERMUDEZ            SAMUDIO             ISRAEL                                                      8321000000057177370CSA     GEN20221201        
+3500000000000000000601790805CHAVARRIA           MORA                ASDRUBAL                                                    8321000000075630400CSA     GEN20221201        
+3500000000000000000601950524RAMIREZ             MENA                HUMBERTO                                                    9211000000055552095CSA     GEN20221201        
+3500000000000000000602030366MENDEZ              GODINEZ             RIGOBERTO                                                   9211000000040182420CSA     GEN20221201        
+3500000000000000000602030882BEITA               JIMENEZ             JOSE LUIS                                                   8321000000048985030CSA     GEN20221201        
+3500000000000000000602110331MUÑOZ               MORALES             ELIECER                                                     9211000000056873080CSA     GEN20221201        
+3500000000000000000602130111CHINCHILLA          CESPEDES            ROGER                                                       9211000000030827860CSA     GEN20221201        
+3500000000000000000602330293ZUÑIGA              GARCIA              GERMAN                                                      9211000000055186990CSA     GEN20221201        
+3500000000000000000602500241MONTOYA             GONZALEZ            CESAR ABELINO                                               8321000000059352810CSA     GEN20221201        
+3500000000000000000602580129SANCHEZ             ZAPATA              ROBERTO                                                     9211000000030677835CSA     GEN20221201        
+3500000000000000000602580129SANCHEZ             ZAPATA              ROBERTO                                                     9211000000000000000CIN     SEM2022120120221201
+3500000000000000000602580129SANCHEZ             ZAPATA              ROBERTO                                                     9211000000000000000CPE     S  2022121120221211
+3500000000000000000602580225CESPEDES            GAMBOA              FERNANDO                                                    8321000000090369800CSA     GEN20221201        
+3500000000000000000602610033ARIAS               VARGAS              SAUL                                                        4132000000044529795CSA     GEN20221201        
+3500000000000000000602630640LARA                CHAVES              HONNY                                                       8321000000083021260CSA     GEN20221201        
+3500000000000000000602650226BARRANTES           CUBILLO             LEONARDO                                                    9211000000055116530CSA     GEN20221201        
+3500000000000000000602660647UVA                 CALDERON            ROY                                                         9211000000029726865CSA     GEN20221201        
+3500000000000000000602660647UVA                 CALDERON            ROY                                                         9211000000000000000CIN     SEM2022120120221201
+3500000000000000000602660647UVA                 CALDERON            ROY                                                         9211000000000000000CPE     S  2022120920221209
+3500000000000000000602660647UVA                 CALDERON            ROY                                                         9211000000000000000CPE     S  2022121920221219
+3500000000000000000602660816SANCHEZ             GARBANZO            LUIS ANTONIO                                                8321000000066272375CSA     GEN20221201        
+3500000000000000000602670457FIGUEROA            ROJAS               ALBERTO                                                     9211000000029708515CSA     GEN20221201        
+3500000000000000000602800858BARRANTES           BEITA               ELIDIER                                                     9211000000059564110CSA     GEN20221201        
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CSA     GEN20221201        
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CIN     SEM2022120120221201
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CPE     S  2022120120221201
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CPE     S  2022120220221202
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CIN     SEM2022120420221205
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CPE     S  2022120720221210
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CIN     SEM2022121120221211
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CPE     S  2022121220221214
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CIN     SEM2022121820221218
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CIN     SEM2022122520221225
+3500000000000000000602810815CEDEÑO              ZAPATA              JULIO CESAR                                                 9211000000000000000CPE     S  2022123020221230
+3500000000000000000602830892SANCHEZ             GARBANZO            CARLOS LUIS                                                 8321000000051973305CSA     GEN20221201        
+3500000000000000000602840039GARCIA              BARRANTES           GRADELI                                                     8321000000047064105CSA     GEN20221201        
+3500000000000000000602870865ROJAS               TORRES              PABLO                                                       9211000000033993220CSA     GEN20221201        
+3500000000000000000602880800FIGUEROA            ESTRADA             YORLENY                                                     9211000000018979965CSA     GEN20221201        
+3500000000000000000602880800FIGUEROA            ESTRADA             YORLENY                                                     9211000000000000000 EX        20221217        
+3500000000000000000602900566JARA                MORALES             EUNICE                                                      9211000000049909500CSA     GEN20221201        
+3500000000000000000602910893LORIA               CHAVES              MELVIN                                                      9211000000034814260CSA     GEN20221201        
+3500000000000000000602970671HIDALGO             FIGUEROA            DONALD                                                      9211000000051918775CSA     GEN20221201        
+3500000000000000000602970671HIDALGO             FIGUEROA            DONALD                                                      9211000000000000000CPE     S  2022122620221226
+3500000000000000000602980805BARBOZA             GARBANZO            NELSON                                                      9211000000053314775CSA     GEN20221201        
+3500000000000000000602980805BARBOZA             GARBANZO            NELSON                                                      9211000000000000000 OC        20221207        
+3500000000000000000603010719SOTO                CASTRO              DORIS MARIA                                                 9211000000029245185CSA     GEN20221201        
+3500000000000000000603020551BARQUERO            PICADO              ROY                                                         9211000000057040995CSA     GEN20221201        
+3500000000000000000603020551BARQUERO            PICADO              ROY                                                         9211000000000000000CPE     S  2022122320221223
+3500000000000000000603070226VILLANUEVA          RIOS                JORGE ADALBERTO                                             9211000000030414990CSA     GEN20221201        
+3500000000000000000603080396HIDALGO             FIGUEROA            RONALD                                                      9211000000047549205CSA     GEN20221201        
+3500000000000000000603100325CONCEPCION          ZAPATA              KATIA MARIA                                                 9211000000000000000CSA     GEN20221201        
+3500000000000000000603100325CONCEPCION          ZAPATA              KATIA MARIA                                                 9211000000000000000CIN     SEM2022120120221201
+3500000000000000000603100325CONCEPCION          ZAPATA              KATIA MARIA                                                 9211000000000000000CIN     SEM2022120120221203
+3500000000000000000603100325CONCEPCION          ZAPATA              KATIA MARIA                                                 9211000000000000000CIN     SEM2022120520221210
+3500000000000000000603100325CONCEPCION          ZAPATA              KATIA MARIA                                                 9211000000000000000CIN     SEM2022121220221215
+3500000000000000000603100325CONCEPCION          ZAPATA              KATIA MARIA                                                 9211000000000000000 EX        20221201        
+3500000000000000000603130540NAJERA              ARIAS               MAURICIO                                                    9211000000050238445CSA     GEN20221201        
+3500000000000000000603130540NAJERA              ARIAS               MAURICIO                                                    9211000000000000000CIN     SEM2022120820221208
+3500000000000000000603160537QUIROS              PALACIOS            MAYNOR                                                      8321000000055578765CSA     GEN20221201        
+3500000000000000000603170448MARIN               SANDI               LIBIER GERARDO                                              9211000000041259055CSA     GEN20221201        
+3500000000000000000603170448MARIN               SANDI               LIBIER GERARDO                                              9211000000000000000CIN     SEM2022121320221213
+3500000000000000000603250392HERNANDEZ           CARRASCO            ALEXANDER                                                   9211000000033449985CSA     GEN20221201        
+3500000000000000000603260719GARCIA              BARRANTES           SERGIO                                                      8321000000044771195CSA     GEN20221201        
+3500000000000000000603260719GARCIA              BARRANTES           SERGIO                                                      8321000000000000000CIN     INS2022121820221218
+3500000000000000000603260719GARCIA              BARRANTES           SERGIO                                                      8321000000000000000CIN     INS2022122520221225
+3500000000000000000603270997BARRANTES           NAVAS               JOSE EDDY                                                   9211000000021262960CSA     GEN20221201        
+3500000000000000000603270997BARRANTES           NAVAS               JOSE EDDY                                                   9211000000000000000CPE     S  2022121020221210
+3500000000000000000603270997BARRANTES           NAVAS               JOSE EDDY                                                   9211000000000000000CPE     S  2022121420221214
+3500000000000000000603270997BARRANTES           NAVAS               JOSE EDDY                                                   9211000000000000000 EX        20221214        
+3500000000000000000603280587BADILLA             FALLAS              ADAM JESUS                                                  9211000000060688905CSA     GEN20221201        
+3500000000000000000603290683MADRIGAL            BUSTOS              CHRISTIAN                                                   9211000000058823305CSA     GEN20221201        
+3500000000000000000603290683MADRIGAL            BUSTOS              CHRISTIAN                                                   9211000000000000000CIN     SEM2022122420221224
+3500000000000000000603300485ROJAS               ANGULO              JUAN JOSE                                                   9211000000035685690CSA     GEN20221201        
+3500000000000000000603300807VILLARREAL          RODRIGUEZ           GREIVIN GERARDO                                             9211000000000000000CSA     GEN20221201        
+3500000000000000000603300807VILLARREAL          RODRIGUEZ           GREIVIN GERARDO                                             9211000000000000000CIN     SEM2022120120221201
+3500000000000000000603300807VILLARREAL          RODRIGUEZ           GREIVIN GERARDO                                             9211000000000000000CIN     SEM2022120420221204
+3500000000000000000603300807VILLARREAL          RODRIGUEZ           GREIVIN GERARDO                                             9211000000000000000CIN     SEM2022121120221211
+3500000000000000000603300807VILLARREAL          RODRIGUEZ           GREIVIN GERARDO                                             9211000000000000000CIN     SEM2022121820221218
+3500000000000000000603300807VILLARREAL          RODRIGUEZ           GREIVIN GERARDO                                             9211000000000000000CIN     SEM2022122520221225
+3500000000000000000603320120MONTOYA             DELGADO             MARTIN                                                      9211000000028901120CIC08DIUGEN20221201        
+3500000000000000000603330269AVILES              TORRES              JASON                                                       9211000000053904005CSA     GEN20221201        
+3500000000000000000603330269AVILES              TORRES              JASON                                                       9211000000000000000CPE     S  2022121620221216
+3500000000000000000603330269AVILES              TORRES              JASON                                                       9211000000000000000CPE     S  2022121920221219
+3500000000000000000603350056HIDALGO             VILLANUEVA          ROY ALBERTO                                                 9211000000043886695CSA     GEN20221201        
+3500000000000000000603380012TORRES              VILLANUEVA          RONY WILLIAM                                                9211000000020469725CSA     GEN20221201        
+3500000000000000000603380012TORRES              VILLANUEVA          RONY WILLIAM                                                9211000000000000000CPE     S  2022120320221203
+3500000000000000000603380012TORRES              VILLANUEVA          RONY WILLIAM                                                9211000000000000000 EX        20221217        
+3500000000000000000603430766CARRILLO            CHACON              WILSON                                                      9211000000067288170CSA     GEN20221201        
+3500000000000000000603440856SERRANO             BEITA               GREDY JOSE                                                  9211000000043955565CSA     GEN20221201        
+3500000000000000000603450265ACUÑA               MARTINEZ            JOHNNY ALEXIS                                               9211000000063941805CSA     GEN20221201        
+3500000000000000000603450265ACUÑA               MARTINEZ            JOHNNY ALEXIS                                               9211000000000000000CPE     S  2022121120221211
+3500000000000000000603480079HIDALGO             BEITA               ROY ALBERTO                                                 8321000000072390725CSA     GEN20221201        
+3500000000000000000603500010JIMENEZ             VILLANUEVA          JOHNNY ALEX                                                 8321000000110256640CSA     GEN20221201        
+3500000000000000000603510689GARCIA              VILLALOBOS          LUIS ALBERTO                                                9211000000038851050CSA     GEN20221201        
+3500000000000000000603570838FLORES              ROJAS               ALVARO                                                      9211000000055186990CSA     GEN20221201        
+3500000000000000000603570946GRANADOS            JIMENEZ             JERSON GABRIEL                                              8321000000081405780CSA     GEN20221201        
+3500000000000000000603570946GRANADOS            JIMENEZ             JERSON GABRIEL                                              8321000000000000000CPE     S  2022122320221223
+3500000000000000000603580816BEITA               ZUÑIGA              JOSE LUIS                                                   9211000000050450790CSA     GEN20221201        
+3500000000000000000603580816BEITA               ZUÑIGA              JOSE LUIS                                                   9211000000000000000CPE     S  2022120320221203
+3500000000000000000603590689MENDEZ              ROJAS               MICHAEL                                                     9211000000024975015CSA     GEN20221201        
+3500000000000000000603590689MENDEZ              ROJAS               MICHAEL                                                     9211000000000000000CPE     S  2022120120221201
+3500000000000000000603590689MENDEZ              ROJAS               MICHAEL                                                     9211000000000000000CPE     S  2022120120221203
+3500000000000000000603590689MENDEZ              ROJAS               MICHAEL                                                     9211000000000000000CPE     S  2022121220221213
+3500000000000000000603590689MENDEZ              ROJAS               MICHAEL                                                     9211000000000000000CPE     S  2022121920221219
+3500000000000000000603590689MENDEZ              ROJAS               MICHAEL                                                     9211000000000000000CPE     S  2022122920221230
+3500000000000000000603610165MADRIGAL            BUSTOS              JOSE ANGEL                                                  9211000000054747140CSA     GEN20221201        
+3500000000000000000603610165MADRIGAL            BUSTOS              JOSE ANGEL                                                  9211000000000000000CPE     S  2022122220221222
+3500000000000000000603610827ROSALES             VARGAS              LIZETH                                                      9211000000031653610CSA     GEN20221201        
+3500000000000000000603610827ROSALES             VARGAS              LIZETH                                                      9211000000000000000CPE     S  2022120820221208
+3500000000000000000603620399DELGADO             ORTIZ               GERARDO HUMBERTO                                            9211000000031206745CSA     GEN20221201        
+3500000000000000000603620399DELGADO             ORTIZ               GERARDO HUMBERTO                                            9211000000000000000CPE     S  2022122220221222
+3500000000000000000603640118ARIAS               BARBOZA             JASON                                                       9211000000039246800CSA     GEN20221201        
+3500000000000000000603640118ARIAS               BARBOZA             JASON                                                       9211000000000000000CIN     SEM2022121320221213
+3500000000000000000603660730BARBOZA             GARBANZO            MARLIN                                                      9211000000053942095CSA     GEN20221201        
+3500000000000000000603660730BARBOZA             GARBANZO            MARLIN                                                      9211000000000000000CPE     S  2022121720221217
+3500000000000000000603670928ROJAS               DELGADO             IDAN                                                        9211000000086402580CSA     GEN20221201        
+3500000000000000000603680620CHINCHILLA          ROJAS               MICHAEL                                                     9211000000047687970CSA     GEN20221201        
+3500000000000000000603700680ENRIQUEZ            BALTODANO           GREIVIN                                                     9211000000046677865CSA     GEN20221201        
+3500000000000000000603700680ENRIQUEZ            BALTODANO           GREIVIN                                                     9211000000000000000CPE     S  2022121120221211
+3500000000000000000603700680ENRIQUEZ            BALTODANO           GREIVIN                                                     9211000000000000000CPE     S  2022121720221217
+3500000000000000000603700680ENRIQUEZ            BALTODANO           GREIVIN                                                     9211000000000000000CIN     SEM2022122420221224
+3500000000000000000603700680ENRIQUEZ            BALTODANO           GREIVIN                                                     9211000000000000000CPE     S  2022122420221224
+3500000000000000000603700680ENRIQUEZ            BALTODANO           GREIVIN                                                     9211000000000000000CIN     SEM2022122620221227
+3500000000000000000603700680ENRIQUEZ            BALTODANO           GREIVIN                                                     9211000000000000000CPE     S  2022122620221226
+3500000000000000000603700680ENRIQUEZ            BALTODANO           GREIVIN                                                     9211000000000000000CPE     S  2022122720221227
+3500000000000000000603700680ENRIQUEZ            BALTODANO           GREIVIN                                                     9211000000000000000CIN     SEM2022122820221229
+3500000000000000000603700758CARRILLO            ALEMAN              JULIO CESAR                                                 9211000000037108155CSA     GEN20221201        
+3500000000000000000603710411ARGUELLO            FERNANDEZ           DIEGO                                                       9211000000039695140CSA     GEN20221201        
+3500000000000000000603750991CHAVES              SOLIS               GREIVIN GERARDO                                             4132000000064560230CSA     GEN20221201        
+3500000000000000000603760829MORALES             DELGADO             SANDRO                                                      4132000000055148465CSA     GEN20221201        
+3500000000000000000603780248CHINCHILLA          PICADO              JOSE ALBERTO                                                8321000000056905745CSA     GEN20221201        
+3500000000000000000603790114GONZALEZ            MIRANDA             DARVIS OMAR                                                 9211000000035644710CIC08DIUGEN20221201        
+3500000000000000000603820078PADILLA             GARRO               MAYCO                                                       8321000000067348350CSA     GEN20221201        
+3500000000000000000603820285CAMPOS              LORIA               FERNANDO                                                    8321000000058646290CSA     GEN20221201        
+3500000000000000000603820285CAMPOS              LORIA               FERNANDO                                                    8321000000000000000 OC        20221207        
+3500000000000000000603930512GONZALEZ            MIRANDA             VLADIMIR GUIL                                               9211000000060053240CSA     GEN20221201        
+3500000000000000000603940967LARA                CHAVES              JOSE PABLO                                                  8321000000085087575CSA     GEN20221201        
+3500000000000000000603940967LARA                CHAVES              JOSE PABLO                                                  8321000000000000000CPE     S  2022120220221202
+3500000000000000000603970283AMADOR              SANCHEZ             MIGUEL ABNER                                                8321000000057911750CSA     GEN20221201        
+3500000000000000000603970283AMADOR              SANCHEZ             MIGUEL ABNER                                                8321000000000000000CPE     S  2022123020221230
+3500000000000000000603970871ALTAMIRANO          ATENCIO             MIGUEL                                                      9211000000045436860CSA     GEN20221201        
+3500000000000000000603970871ALTAMIRANO          ATENCIO             MIGUEL                                                      9211000000000000000CPE     S  2022121220221212
+3500000000000000000603970871ALTAMIRANO          ATENCIO             MIGUEL                                                      9211000000000000000CPE     S  2022121720221217
+3500000000000000000603980166ORTIZ               DELGADO             DARLY ELISEO                                                9211000000019481760CSA     GEN20221201        
+3500000000000000000603980166ORTIZ               DELGADO             DARLY ELISEO                                                9211000000000000000CIN     INS2022120120221201
+3500000000000000000603980166ORTIZ               DELGADO             DARLY ELISEO                                                9211000000000000000CIN     INS2022120420221204
+3500000000000000000603980166ORTIZ               DELGADO             DARLY ELISEO                                                9211000000000000000CIN     INS2022121120221211
+3500000000000000000603980166ORTIZ               DELGADO             DARLY ELISEO                                                9211000000000000000CPE     S  2022121520221215
+3500000000000000000604000001BEITA               VARGAS              ALEXANDER                                                   9211000000036029900CSA     GEN20221201        
+3500000000000000000604000001BEITA               VARGAS              ALEXANDER                                                   9211000000000000000CPE     S  2022121020221210
+3500000000000000000604000001BEITA               VARGAS              ALEXANDER                                                   9211000000000000000CPE     S  2022122120221221
+3500000000000000000604030048HERNANDEZ           CAMPOS              DONALDO                                                     4132000000030610315CSA     GEN20221201        
+3500000000000000000604030048HERNANDEZ           CAMPOS              DONALDO                                                     4132000000000000000CIN     SEM2022121720221217
+3500000000000000000604030048HERNANDEZ           CAMPOS              DONALDO                                                     4132000000000000000CIN     SEM2022121920221224
+3500000000000000000604030048HERNANDEZ           CAMPOS              DONALDO                                                     4132000000000000000CIN     SEM2022122720221230
+3500000000000000000604100560HIDALGO             MENDEZ              JEAN CARLOS                                                 9211000000044092340CSA     GEN20221201        
+3500000000000000000604100560HIDALGO             MENDEZ              JEAN CARLOS                                                 9211000000000000000CPE     S  2022120120221201
+3500000000000000000604100560HIDALGO             MENDEZ              JEAN CARLOS                                                 9211000000000000000CPE     S  2022121020221210
+3500000000000000000604100560HIDALGO             MENDEZ              JEAN CARLOS                                                 9211000000000000000CPE     S  2022121220221212
+3500000000000000000604100560HIDALGO             MENDEZ              JEAN CARLOS                                                 9211000000000000000CPE     S  2022122420221224
+3500000000000000000604190841UMAÑA               PICADO              LESTER JAVIER                                               4132000000037755250CSA     GEN20221201        
+3500000000000000000604190841UMAÑA               PICADO              LESTER JAVIER                                               4132000000000000000 OC        20221210        
+3500000000000000000604190841UMAÑA               PICADO              LESTER JAVIER                                               4132000000000000000 OC        20221212        
+3500000000000000000604210274ORTIZ               TORRES              FABIAN GERARDO                                              9211000000032991045CSA     GEN20221201        
+3500000000000000000604210274ORTIZ               TORRES              FABIAN GERARDO                                              9211000000000000000CPE     S  2022121520221215
+3500000000000000000604210513LEZCANO             ARAYA               YEINER ENRIQUE                                              4132000000043532265CSA     GEN20221201        
+3500000000000000000604210513LEZCANO             ARAYA               YEINER ENRIQUE                                              4132000000000000000CIN     SEM2022120420221204
+3500000000000000000604220030BLANCO              MORA                GUIDO ELIAS                                                 9211000000055848255CSA     GEN20221201        
+3500000000000000000604220030BLANCO              MORA                GUIDO ELIAS                                                 9211000000000000000CPE     S  2022122620221226
+3500000000000000000604220588ROSALES             QUIROS              MAURICIO ROBERTO                                            9211000000030621425CSA     GEN20221201        
+3500000000000000000604220640MORA                MORALES             JENER ALEJANDRO                                             9211000000029453745CSA     GEN20221201        
+3500000000000000000604220640MORA                MORALES             JENER ALEJANDRO                                             9211000000000000000CPE     S  2022122320221223
+3500000000000000000604220640MORA                MORALES             JENER ALEJANDRO                                             9211000000000000000CPE     S  2022122720221227
+3500000000000000000604300603BLANCO              FUENTES             ALEXIS ALEXIS                                               9211000000041600325CSA     GEN20221201        
+3500000000000000000604320385BALTODANO           SANCHEZ             LIDIER ALEJANDRO                                            8321000000045260475CSA     GEN20221201        
+3500000000000000000604330959MORALES             LOPEZ               LUIZA ANYE                                                  9211000000029571350CSA     GEN20221201        
+3500000000000000000604330959MORALES             LOPEZ               LUIZA ANYE                                                  9211000000000000000CPE     S  2022122220221222
+3500000000000000000604330959MORALES             LOPEZ               LUIZA ANYE                                                  9211000000000000000CPE     S  2022123020221230
+3500000000000000000604340197SOLIS               ROJAS               ALEJANDRO                                                   4132000000035711980CSA     GEN20221201        
+3500000000000000000604360528MOJICA              MIRANDA             PAOLA DEL SOCORRO                                           9211000000019255210CSA     GEN20221201        
+3500000000000000000604360528MOJICA              MIRANDA             PAOLA DEL SOCORRO                                           9211000000000000000 EX        20221217        
+3500000000000000000604370112PALACIOS            HIDALGO             MAYQUER                                                     9211000000047483655CSA     GEN20221201        
+3500000000000000000604370112PALACIOS            HIDALGO             MAYQUER                                                     9211000000000000000CIN     SEM2022120220221202
+3500000000000000000604370112PALACIOS            HIDALGO             MAYQUER                                                     9211000000000000000CPE     S  2022120320221203
+3500000000000000000604370113PALACIOS            HIDALGO             ANGELO                                                      9211000000038376680CSA     GEN20221201        
+3500000000000000000604370113PALACIOS            HIDALGO             ANGELO                                                      9211000000000000000CPE     S  2022120820221208
+3500000000000000000604370113PALACIOS            HIDALGO             ANGELO                                                      9211000000000000000CPE     S  2022121020221210
+3500000000000000000604370113PALACIOS            HIDALGO             ANGELO                                                      9211000000000000000CPE     S  2022122420221224
+3500000000000000000604370113PALACIOS            HIDALGO             ANGELO                                                      9211000000000000000CPE     S  2022122620221226
+3500000000000000000604370400BRENES              ARIAS               KEILOR ANTONIO                                              8321000000048671945CSA     GEN20221201        
+3500000000000000000604370400BRENES              ARIAS               KEILOR ANTONIO                                              8321000000000000000CIN     SEM2022122820221230
+3500000000000000000604380311ORTIZ               DELGADO             DANI DANIEL                                                 9211000000041656535CSA     GEN20221201        
+3500000000000000000604380311ORTIZ               DELGADO             DANI DANIEL                                                 9211000000000000000CPE     S  2022121020221210
+3500000000000000000604380311ORTIZ               DELGADO             DANI DANIEL                                                 9211000000000000000CPE     S  2022122220221222
+3500000000000000000604390753CHACON              MORA                MINOR DE JESUS                                              9211000000066935410CSA     GEN20221201        
+3500000000000000000604390852HERNANDEZ           CAMPOS              LUIS MANUEL                                                 9211000000043399685CSA     GEN20221201        
+3500000000000000000604400887SASSO               CRUZ                JERY SELENA                                                 9211000000027043190CSA     GEN20221201        
+3500000000000000000604470394HERNANDEZ           ARGUEDAS            LISANDRO                                                    9211000000043497210CSA     GEN20221201        
+3500000000000000000604500419CASTILLO            GRANADOS            JANIER GEOVANNY                                             9211000000002065100CSA     GEN20221201        
+3500000000000000000604500419CASTILLO            GRANADOS            JANIER GEOVANNY                                             9211000000000000000CIN     INS2022120120221201
+3500000000000000000604500419CASTILLO            GRANADOS            JANIER GEOVANNY                                             9211000000000000000CIN     INS2022120420221204
+3500000000000000000604500419CASTILLO            GRANADOS            JANIER GEOVANNY                                             9211000000000000000CIN     INS2022121120221211
+3500000000000000000604500419CASTILLO            GRANADOS            JANIER GEOVANNY                                             9211000000000000000CIN     INS2022121820221218
+3500000000000000000604500419CASTILLO            GRANADOS            JANIER GEOVANNY                                             9211000000000000000CIN     INS2022122320221224
+3500000000000000000604500419CASTILLO            GRANADOS            JANIER GEOVANNY                                             9211000000000000000CIN     INS2022122620221230
+3500000000000000000604510607LEDEZMA             MADRIGAL            MAIKOL JOSUE                                                9211000000055198970CSA     GEN20221201        
+3500000000000000000604510607LEDEZMA             MADRIGAL            MAIKOL JOSUE                                                9211000000000000000CPE     S  2022121420221214
+3500000000000000000604510607LEDEZMA             MADRIGAL            MAIKOL JOSUE                                                9211000000000000000CPE     S  2022122120221221
+3500000000000000000604520554GONZALEZ            MIRANDA             RIGOBERTO CLEMENTE                                          9211000000041562555CSA     GEN20221201        
+3500000000000000000604540614LARA                NAVARRO             GENESIS FABIOLA                                             9211000000017065425CSA     GEN20221201        
+3500000000000000000604540614LARA                NAVARRO             GENESIS FABIOLA                                             9211000000000000000CPE     S  2022121220221212
+3500000000000000000604540614LARA                NAVARRO             GENESIS FABIOLA                                             9211000000000000000 EX        20221217        
+3500000000000000000604550163MONESTEL            DELGADO             ELISA                                                       9211000000019083625CSA     GEN20221201        
+3500000000000000000604550163MONESTEL            DELGADO             ELISA                                                       9211000000000000000 EX        20221217        
+3500000000000000000604560115HURTADO             VARGAS              JOSE NARCISO                                                9211000000042193330CSA     GEN20221201        
+3500000000000000000604570214HERNANDEZ           MORA                LUIS ALFREDO                                                9211000000035352840CSA     GEN20221201        
+3500000000000000000604570214HERNANDEZ           MORA                LUIS ALFREDO                                                9211000000000000000CPE     S  2022120120221201
+3500000000000000000604570214HERNANDEZ           MORA                LUIS ALFREDO                                                9211000000000000000CPE     S  2022121020221210
+3500000000000000000604570214HERNANDEZ           MORA                LUIS ALFREDO                                                9211000000000000000CIN     SEM2022121320221213
+3500000000000000000604570214HERNANDEZ           MORA                LUIS ALFREDO                                                9211000000000000000CPE     S  2022122320221223
+3500000000000000000604580454ROJAS               MADRIZ              DANIEL                                                      9211000000000000000CSA     GEN20221201        
+3500000000000000000604580454ROJAS               MADRIZ              DANIEL                                                      9211000000000000000 EX        20221201        
+3500000000000000000604610519VILLALOBOS          NAVARRO             BRYAN ENRIQUE                                               9211000000059064815CSA     GEN20221201        
+3500000000000000000604650295CESPEDES            LARA                CARLOS SAUL                                                 9211000000021417405CSA     GEN20221201        
+3500000000000000000604650295CESPEDES            LARA                CARLOS SAUL                                                 9211000000000000000CIN     SEM2022121320221213
+3500000000000000000604650295CESPEDES            LARA                CARLOS SAUL                                                 9211000000000000000CPE     S  2022121920221219
+3500000000000000000604650295CESPEDES            LARA                CARLOS SAUL                                                 9211000000000000000 EX        20221218        
+3500000000000000000604650358VILLALOBOS          PADILLA             JOSETH ALEXIS                                               8315000000040849995CSA     GEN20221201        
+3500000000000000000604650503BRENES              ARIAS               YERLIN DAYANA                                               9211000000049674030CSA     GEN20221201        
+3500000000000000000604650503BRENES              ARIAS               YERLIN DAYANA                                               9211000000000000000CPE     S  2022121020221210
+3500000000000000000604650503BRENES              ARIAS               YERLIN DAYANA                                               9211000000000000000CIN     SEM2022122020221220
+3500000000000000000604670047AGUILAR             MOLINA              ADRIAN GERARDO                                              9211000000011220910CSA     GEN20221201        
+3500000000000000000604670047AGUILAR             MOLINA              ADRIAN GERARDO                                              9211000000000000000CPE     S  2022121320221213
+3500000000000000000604670047AGUILAR             MOLINA              ADRIAN GERARDO                                              9211000000000000000CIN     SEM2022121420221215
+3500000000000000000604670047AGUILAR             MOLINA              ADRIAN GERARDO                                              9211000000000000000 EX        20221217        
+3500000000000000000604670207MONESTEL            CHAVES              VICTOR                                                      8321000000074355200CSA     GEN20221201        
+3500000000000000000604680410VARGAS              CALDERON            LUIS ANTONIO                                                9211000000016471620CSA     GEN20221201        
+3500000000000000000604680410VARGAS              CALDERON            LUIS ANTONIO                                                9211000000000000000CPE     S  2022121220221212
+3500000000000000000604680410VARGAS              CALDERON            LUIS ANTONIO                                                9211000000000000000 EX        20221217        
+3500000000000000000604680651OBANDO              LEIVA               CRISTOFER ALBERTO                                           9211000000022432775CSA     GEN20221201        
+3500000000000000000604680651OBANDO              LEIVA               CRISTOFER ALBERTO                                           9211000000000000000CPE     S  2022120120221201
+3500000000000000000604680651OBANDO              LEIVA               CRISTOFER ALBERTO                                           9211000000000000000CPE     S  2022120820221208
+3500000000000000000604680651OBANDO              LEIVA               CRISTOFER ALBERTO                                           9211000000000000000CPE     S  2022121920221219
+3500000000000000000604680651OBANDO              LEIVA               CRISTOFER ALBERTO                                           9211000000000000000CPE     S  2022122420221224
+3500000000000000000604680651OBANDO              LEIVA               CRISTOFER ALBERTO                                           9211000000000000000CPE     S  2022122620221226
+3500000000000000000604680651OBANDO              LEIVA               CRISTOFER ALBERTO                                           9211000000000000000CPE     S  2022123020221230
+3500000000000000000604710159FERNANDEZ           ARGUELLO            JOSE ANDRES                                                 9211000000046900980CSA     GEN20221201        
+3500000000000000000604720129BRENES              ZUÑIGA              JEFERSON JESUS                                              9211000000018141915CSA     GEN20221201        
+3500000000000000000604720129BRENES              ZUÑIGA              JEFERSON JESUS                                              9211000000000000000 EX        20221217        
+3500000000000000000604720132CHACON              MORA                DARWIN JOSUE                                                9211000000028350620CSA     GEN20221201        
+3500000000000000000604720132CHACON              MORA                DARWIN JOSUE                                                9211000000000000000CIN     SEM2022121220221213
+3500000000000000000604720853FERNANDEZ           CARRERA             FAPBRI GERLY                                                9211000000059890560CSA     GEN20221201        
+3500000000000000000604750978ANDINO              MIRANDA             PABLO ANTONIO                                               9211000000050596355CSA     GEN20221201        
+3500000000000000000604750978ANDINO              MIRANDA             PABLO ANTONIO                                               9211000000000000000CPE     S  2022120820221208
+3500000000000000000604750978ANDINO              MIRANDA             PABLO ANTONIO                                               9211000000000000000CPE     S  2022122320221223
+3500000000000000000604750978ANDINO              MIRANDA             PABLO ANTONIO                                               9211000000000000000CPE     S  2022122820221228
+3500000000000000000604770134AMADOR              ALVAREZ             RICARDO MANUEL                                              9211000000019576800CSA     GEN20221201        
+3500000000000000000604770134AMADOR              ALVAREZ             RICARDO MANUEL                                              9211000000000000000 EX        20221217        
+3500000000000000000604770452MONGE               CORDERO             MANUEL EDUARDO                                              9211000000054785895CSA     GEN20221201        
+3500000000000000000604770452MONGE               CORDERO             MANUEL EDUARDO                                              9211000000000000000CPE     S  2022121020221210
+3500000000000000000604840385JIMENEZ             JIMENEZ             BRADLY ANDRES                                               9211000000028350620CIC08DIUGEN20221201        
+3500000000000000000604860854BARQUERO            MORALES             KEVIN GERARDO                                               9211000000047034640CSA     GEN20221201        
+3500000000000000000605000625CESPEDES            LARA                HAROLD JAFETH                                               9211000000035490985CSA     GEN20221201        
+3500000000000000000605000625CESPEDES            LARA                HAROLD JAFETH                                               9211000000000000000CPE     S  2022121220221212
+3500000000000000000605000625CESPEDES            LARA                HAROLD JAFETH                                               9211000000000000000CPE     S  2022122220221223
+3500000000000000000605030594MENDOZA             PETTER              JASSETTE MARTIN                                             9211000000000000000CSA     GEN20221201        
+3500000000000000000605030594MENDOZA             PETTER              JASSETTE MARTIN                                             9211000000000000000CIN     INS2022120120221201
+3500000000000000000605030594MENDOZA             PETTER              JASSETTE MARTIN                                             9211000000000000000CIN     INS2022120420221204
+3500000000000000000605030594MENDOZA             PETTER              JASSETTE MARTIN                                             9211000000000000000CIN     INS2022121120221211
+3500000000000000000605030594MENDOZA             PETTER              JASSETTE MARTIN                                             9211000000000000000CIN     INS2022121820221218
+3500000000000000000605030594MENDOZA             PETTER              JASSETTE MARTIN                                             9211000000000000000CIN     INS2022122520221225
+3500000000000000000605140402GONZALEZ            MIRANDA             ANLLER YERIS                                                9211000000033993220CSA     GEN20221201        
+3500000000000000000701360460GRANDA              DELGADO             EDUARDO                                                     9211000000028694680CSA     GEN20221201        
+3500000000000000000701360460GRANDA              DELGADO             EDUARDO                                                     9211000000000000000CIN     SEM2022120120221201
+3500000000000000000701360460GRANDA              DELGADO             EDUARDO                                                     9211000000000000000CPE     S  2022121920221219
+3500000000000000000702360728ROIG                GRANDA              WILBER PATRICIO                                             9211000000046764745CSA     GEN20221201        
+3500000000000000000702460049UMAÑA               ROBLES              KARLA VANESSA                                               9211000000029245180CSA     GEN20221201        
+3500000000000000000702460049UMAÑA               ROBLES              KARLA VANESSA                                               9211000000000000000CPE     S  2022122720221227
+3500000000000000000702650383MENA                MONESTEL            KENDAL                                                      9211000000024939675CSA     GEN20221201        
+3500000000000000000702650383MENA                MONESTEL            KENDAL                                                      9211000000000000000CIN     SEM2022121320221213
+3500000000000000000702650383MENA                MONESTEL            KENDAL                                                      9211000000000000000CPE     S  2022121420221214
+3500000000000000000702650383MENA                MONESTEL            KENDAL                                                      9211000000000000000CPE     S  2022121720221217
+3500000000000000000702650383MENA                MONESTEL            KENDAL                                                      9211000000000000000CPE     S  2022122120221224
+3500000000000000000702650383MENA                MONESTEL            KENDAL                                                      9211000000000000000CPE     S  2022122620221230
+3500000000000000000702710176ROSALES             MAIRENA             YERLIN TERESA                                               4132000000036824380CSA     GEN20221201        
+3500000000000000000702990369FERNANDEZ           NAVAS               MAIKEL ALEJANDRO                                            9211000000047032600CSA     GEN20221201        
+3500000000000000000702990369FERNANDEZ           NAVAS               MAIKEL ALEJANDRO                                            9211000000000000000CIN     SEM2022121020221210
+3500000000000000000702990369FERNANDEZ           NAVAS               MAIKEL ALEJANDRO                                            9211000000000000000CIN     SEM2022122320221223
+3500000000000000000801440989HURTADO             VARGAS              NOEL ANTONIO                                                9211000000041768990CSA     GEN20221201        
+3500000000000000000901040309ROJAS               PITTI               GRISELL                                                     9211000000025873380CSA     GEN20221201        
+3500000000000000000901040309ROJAS               PITTI               GRISELL                                                     9211000000000000000CIN     SEM2022121120221211
+3500000000000000000901440969CEDEÑO              GOMEZ               JOSE VICTORIO                                               9211000000056392655CSA     GEN20221201        
+3570000000000000001650101832CRUZ                MARTINEZ            MARVIN JOSE                                                 9211000000032548165CSA     GEN20221201        
+3570000000000000002840101388VANEGA              MUÑOZ               LUCI JAKELIN                                                9211000000016424620CSA     GEN20221201        
+3570000000000000002840101388VANEGA              MUÑOZ               LUCI JAKELIN                                                9211000000000000000 EX        20221217        
+252 31010108820630011603202212 
+3500000000000000000105750477PRADO               HERRERA             VICTOR                                                      9323000000042381470CSA     GEN20221201        
+3500000000000000000107020780GARBANZO            NARANJO             JOSE FRANCISCO                                              9323000000042731330CSA     GEN20221201        
+3500000000000000000109810012DIAZ                SANDI               LIONID                                                      7231000000077417710CSA     GEN20221201        
+3500000000000000000110220005DURAN               MURILLO             XILIAN                                                      7231000000072323400CSA     GEN20221201        
+3500000000000000000110220005DURAN               MURILLO             XILIAN                                                      7231000000000000000CPE     S  2022122120221221
+3500000000000000000111920449SERRACIN            CONCEPCION          RONNY WILSON                                                9323000000049089715CSA     GEN20221201        
+3500000000000000000112380634AVILES              DIAZ                JUAN CARLOS                                                 9323000000050616300CSA     GEN20221201        
+3500000000000000000113760921MORALES             ESTRADA             STEVEN ALBERTO                                              7231000000063420180CSA     GEN20221201        
+3500000000000000000113760921MORALES             ESTRADA             STEVEN ALBERTO                                              7231000000000000000CPE     S  2022122820221228
+3500000000000000000113970235BARQUERO            MONGRIO             FABIAN DARIEL                                               7231000000000000000CSA     GEN20221201        
+3500000000000000000113970235BARQUERO            MONGRIO             FABIAN DARIEL                                               7231000000000000000CIN     INS2022120120221201
+3500000000000000000113970235BARQUERO            MONGRIO             FABIAN DARIEL                                               7231000000000000000CIN     INS2022120420221204
+3500000000000000000113970235BARQUERO            MONGRIO             FABIAN DARIEL                                               7231000000000000000CIN     INS2022121120221211
+3500000000000000000113970235BARQUERO            MONGRIO             FABIAN DARIEL                                               7231000000000000000CIN     INS2022121820221218
+3500000000000000000113970235BARQUERO            MONGRIO             FABIAN DARIEL                                               7231000000000000000CIN     INS2022122520221225
+3500000000000000000113970235BARQUERO            MONGRIO             FABIAN DARIEL                                               7231000000000000000CIN     INS2022123020221230
+3500000000000000000114210404VALVERDE            RIVERA              DANILO                                                      4131000000056858885CSA     GEN20221201        
+3500000000000000000114870574VARGAS              FLORES              BYRON HUMBERTO                                              9323000000043926610CSA     GEN20221201        
+3500000000000000000114870574VARGAS              FLORES              BYRON HUMBERTO                                              9323000000000000000CPE     S  2022121720221217
+3500000000000000000114960406BALTODANO           ROJAS               ANGELO EDUARDO                                              4131000000051209275CSA     GEN20221201        
+3500000000000000000115040949MARIN               PICADO              DEIBY DE JESUS                                              9323000000050096915CIC08DIUGEN20221201        
+3500000000000000000115280599GAMBOA              RODRIGUEZ           GEINER                                                      7231000000055864510CSA     GEN20221201        
+3500000000000000000115330395ROBLES              CAMPOS              CRISTHIAN                                                   9323000000051464205CSA     GEN20221201        
+3500000000000000000115720142SOLANO              VINDAS              JOSE ARTURO                                                 9323000000041513945CSA     GEN20221201        
+3500000000000000000115750986VARGAS              MENDEZ              BYRON RICARDO                                               9211000000043110805CSA     GEN20221201        
+3500000000000000000115840949NAVARRO             CHAVARRIA           JEISON                                                      9323000000042604155CSA     GEN20221201        
+3500000000000000000116550194ATENCIO             ULATE               ERICK JOHNNY                                                7231000000038665290CIC08DIUGEN20221208        
+3500000000000000000116550194ATENCIO             ULATE               ERICK JOHNNY                                                7231000000000000000 OC        20221207        
+3500000000000000000116580377ARAUZ               SALAZAR             ALEJANDRO JOSE                                              9323000000054064360CSA     GEN20221201        
+3500000000000000000116720183GUTIERREZ           SANCHEZ             DERYAN ENRIQUE                                              4131000000050832505CSA     GEN20221201        
+3500000000000000000116730197CASTILLO            ARIAS               CLAUDIA SUSANA                                              4131000000045592545CSA     GEN20221201        
+3500000000000000000116970695LOBO                VALVERDE            HERALD AARON                                                9323000000042985685CSA     GEN20221201        
+3500000000000000000117090208VEGA                JIMENEZ             ANDREA ISABEL                                               4131000000045254470CSA     GEN20221201        
+3500000000000000000117140947BRENES              ZUÑIGA              JEUDY                                                       4131000000044240225CSA     GEN20221201        
+3500000000000000000117140947BRENES              ZUÑIGA              JEUDY                                                       4131000000000000000CIN     SEM2022122220221222
+3500000000000000000117470812BERMUDEZ            VEGA                EFRAIN ANTONIO                                              9323000000052724420CSA     GEN20221201        
+3500000000000000000117520175CAMPOS              RIVERA              IVAN DANIEL                                                 4131000000044819790CSA     GEN20221201        
+3500000000000000000117870407BERMUDEZ            VEGA                CRISTHIAN EDUARDO                                           9323000000049813090CSA     GEN20221201        
+3500000000000000000118280433QUIEL               CHINCHILLA          BRANDON JOSUE                                               9323000000039778125CIC08DIUGEN20221208        
+3500000000000000000118350395VILLALOBOS          STELLER             ANTHONY JOHEL                                               9323000000000000000CSA     GEN20221201        
+3500000000000000000118350395VILLALOBOS          STELLER             ANTHONY JOHEL                                               9323000000000000000CIN     INS2022120120221201
+3500000000000000000118350395VILLALOBOS          STELLER             ANTHONY JOHEL                                               9323000000000000000CIN     INS2022120420221204
+3500000000000000000118350395VILLALOBOS          STELLER             ANTHONY JOHEL                                               9323000000000000000CIN     INS2022121120221211
+3500000000000000000118350395VILLALOBOS          STELLER             ANTHONY JOHEL                                               9323000000000000000CIN     INS2022121820221218
+3500000000000000000118350395VILLALOBOS          STELLER             ANTHONY JOHEL                                               9323000000000000000CIN     INS2022122520221225
+3500000000000000000206350115RAMIREZ             SANCHEZ             WALTER                                                      4131000000047910810CSA     GEN20221201        
+3500000000000000000207100760VARGAS              ROJAS               EMMANUEL                                                    9323000000042773960CSA     GEN20221201        
+3500000000000000000502450469RUIZ                GONZALEZ            JORGE EDUARDO                                               7231000000081869865CSA     GEN20221201        
+3500000000000000000502830652ARIAS               ACOSTA              CARLOS EDUARDO                                              7231000000062521910CSA     GEN20221201        
+3500000000000000000502830652ARIAS               ACOSTA              CARLOS EDUARDO                                              7231000000000000000CPE     S  2022122420221224
+3500000000000000000602290886FONSECA             VALVERDE            VICTOR HUGO                                                 9323000000047446310CSA     GEN20221201        
+3500000000000000000602290886FONSECA             VALVERDE            VICTOR HUGO                                                 9323000000000000000CPE     S  2022122420221224
+3500000000000000000602660073SIBAJA              ROJAS               MARIO DE JESUS                                              9323000000058636140CSA     GEN20221201        
+3500000000000000000602970679RIVERA              LEAL                YEFERY                                                      7231000000045513360CSA     GEN20221201        
+3500000000000000000603050328VILLALOBOS          HERRERA             IGNACIO                                                     7231000000056786355CSA     GEN20221201        
+3500000000000000000603190412HERNANDEZ           MARCIA              EDGAR                                                       7231000000064557870CSA     GEN20221201        
+3500000000000000000603470766CONCEPCION          ELIZONDO            HENRY                                                       9323000000052379605CSA     GEN20221201        
+3500000000000000000603510462GARCIA              VALVERDE            CRISTHIAN YAJAIRO                                           7231000000066402210CSA     GEN20221201        
+3500000000000000000603650761RETANA              HERNANDEZ           OSCAR DAVID                                                 9323000000042922080CSA     GEN20221201        
+3500000000000000000603720379MUÑOZ               MENDEZ              ANDREY ALONSO                                               4131000000042449800CSA     GEN20221201        
+3500000000000000000603720379MUÑOZ               MENDEZ              ANDREY ALONSO                                               4131000000000000000CPE     S  2022120520221205
+3500000000000000000604010253LAZARO              ARAYA               JOEL                                                        9323000000053753300CSA     GEN20221201        
+3500000000000000000604240410MONTERO             FONSECA             JESUS MAURICIO                                              9323000000000000000CSA     GEN20221201        
+3500000000000000000604240410MONTERO             FONSECA             JESUS MAURICIO                                              9323000000000000000CIN     INS2022120120221201
+3500000000000000000604240410MONTERO             FONSECA             JESUS MAURICIO                                              9323000000000000000CIN     INS2022120420221204
+3500000000000000000604240410MONTERO             FONSECA             JESUS MAURICIO                                              9323000000000000000CIN     INS2022121120221211
+3500000000000000000604240410MONTERO             FONSECA             JESUS MAURICIO                                              9323000000000000000CIN     INS2022121820221218
+3500000000000000000604240410MONTERO             FONSECA             JESUS MAURICIO                                              9323000000000000000CIN     INS2022122520221225
+3500000000000000000604490169VALVERDE            VIQUEZ              WALTER ANTONIO                                              4131000000053371185CSA     GEN20221201        
+3500000000000000000604590613ZUMBADO             VILLALOBOS          ANDRES ALBERTO                                              4131000000047964255CSA     GEN20221201        
+3500000000000000000702260808SALAZAR             VALERIN             JORGE JOEL                                                  4131000000048189495CSA     GEN20221201        
+3500000000000000000901080023WILSON              NAVARRO             JOSE GUILLERMO                                              7231000000057072080CSA     GEN20221201        
+15PAT2022123100000000020000000882
